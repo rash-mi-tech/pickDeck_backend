@@ -1,5 +1,5 @@
 """
-main.py - Laptop Recommendation Backend 
+main.py - Laptop Recommendation Backend (Hackathon Edition)
 -------------------------------------------------------------
 Everything in one file on purpose: data cleaning, recommendation logic,
 and the API server, so you can just hit F5 in IDLE (or run
@@ -235,12 +235,31 @@ USE_CASES = {
         "weights": {"cpu": 0.25, "ram": 0.20, "storage": 0.20, "gpu": 0.20, "display": 0.15, "longevity": 0.00},
         "primary": ["gpu", "display"],
     },
+    "student": {
+        "label": "Student",
+        "description": "Notes, assignments, browsing, occasional lightweight coding",
+        "weights": {"cpu": 0.15, "ram": 0.20, "storage": 0.15, "gpu": 0.00, "display": 0.15, "longevity": 0.35},
+        "primary": ["longevity", "ram"],
+    },
+    "casual": {
+        "label": "Casual / Everyday Use",
+        "description": "Web browsing, streaming, social media, light multitasking",
+        "weights": {"cpu": 0.10, "ram": 0.15, "storage": 0.15, "gpu": 0.00, "display": 0.20, "longevity": 0.40},
+        "primary": ["longevity", "display"],
+    },
 }
 
 DIM_LABELS = {
     "cpu": "processor power", "ram": "RAM", "storage": "storage",
     "gpu": "graphics performance", "display": "display quality", "longevity": "build quality / longevity",
 }
+
+# Some frontends label this use case "creator" instead of "creative" -- accept both.
+USE_CASE_ALIASES = {"creator": "creative"}
+
+
+def normalize_use_case(use_case: str) -> str:
+    return USE_CASE_ALIASES.get(use_case, use_case)
 
 
 def _normalize(series: pd.Series) -> pd.Series:
@@ -270,6 +289,8 @@ USE_CASE_TARGETS = {
     "research": {"cpu": 15, "ram": 32, "storage": 512,  "gpu": 3,  "display": 2.1},
     "coding":   {"cpu": 15, "ram": 16, "storage": 512,  "gpu": 3,  "display": 1.4},
     "creative": {"cpu": 15, "ram": 32, "storage": 1024, "gpu": 11, "display": 3.7},
+    "student":  {"cpu": 8,  "ram": 8,  "storage": 256,  "gpu": 0,  "display": 1.4},
+    "casual":   {"cpu": 6,  "ram": 8,  "storage": 256,  "gpu": 0,  "display": 1.4},
 }
 
 
@@ -599,9 +620,10 @@ def get_laptop(laptop_id: int):
 
 @app.post("/recommend")
 def get_recommendations(req: RecommendRequest):
-    if req.use_case not in USE_CASES:
-        raise HTTPException(status_code=400, detail=f"use_case must be one of {list(USE_CASES)}")
-    results = recommend(filters=req.filters, use_case=req.use_case, top_n=req.top_n)
+    use_case = normalize_use_case(req.use_case)
+    if use_case not in USE_CASES:
+        raise HTTPException(status_code=400, detail=f"use_case must be one of {list(USE_CASES)} (or alias: {list(USE_CASE_ALIASES)})")
+    results = recommend(filters=req.filters, use_case=use_case, top_n=req.top_n)
     for r in results:
         r["laptop"] = _clean_for_json(r["laptop"])
     return results
@@ -614,9 +636,10 @@ def compare_laptops(req: CompareRequest):
         raise HTTPException(status_code=404, detail="None of the given laptop_ids were found")
 
     if req.use_case:
-        if req.use_case not in USE_CASES:
-            raise HTTPException(status_code=400, detail=f"use_case must be one of {list(USE_CASES)}")
-        scored = score_and_rank(rows, req.use_case)
+        use_case = normalize_use_case(req.use_case)
+        if use_case not in USE_CASES:
+            raise HTTPException(status_code=400, detail=f"use_case must be one of {list(USE_CASES)} (or alias: {list(USE_CASE_ALIASES)})")
+        scored = score_and_rank(rows, use_case)
         out = []
         for _, row in scored.iterrows():
             out.append({
@@ -627,7 +650,7 @@ def compare_laptops(req: CompareRequest):
                     "value_score": round(float(row.value_score), 4),
                     "longevity_score": round(float(row.longevity_score), 4),
                 },
-                "reasoning": build_reasoning(row, scored, req.use_case),
+                "reasoning": build_reasoning(row, scored, use_case),
             })
         out.sort(key=lambda r: -r["final_score"])
         return out
