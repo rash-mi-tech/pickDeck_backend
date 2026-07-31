@@ -1,0 +1,391 @@
+,name,brand,rating,price,processor_brand,num_processor,processor_speed,ram,memory_inbuilt,battery_capacity,charger,charging,display_size_inches,pixel,resolution_width,resolution_height,ppi,frequency_display_hz,primary_front_camera,secondry_front_camera,primary_rear_camera,secondry_rear_camera,os_brand,version,memory_card_upto,sim,is_5G,is_wifi
+0,Xiaomi Pad 6S Pro,Xiaomi,4.65,49990,Snapdragon,8.0,3.2,8,256.0,10000.0,120.0,Fast,12.4,2032x3048,2032.0,3048.0,295.42,144.0,32.0,,50.0,2.0,Android,14.0,,,not_available,Wi-Fi
+1,Samsung Galaxy Tab A9 Plus Tablet,Samsung,4.75,21829,Snapdragon,8.0,2.2,4,64.0,7040.0,15.0,Fast,11.0,1200x1920,1200.0,1920.0,205.83,90.0,5.0,,8.0,,Android,13.0,1TB,,5G,Wi-Fi
+2,Lenovo Xiaoxin Pad Pro 12.7,Lenovo,4.6,18499,Snapdragon,8.0,3.2,8,128.0,10200.0,20.0,Fast,12.7,2944x1840,2944.0,1840.0,273.36,144.0,13.0,,8.0,,,,1TB,Single Sim,5G,Wi-Fi
+3,Xiaomi Pad 6 Tablet (8GB RAM + 256GB),Xiaomi,4.0,28999,Snapdragon,8.0,3.2,8,256.0,8840.0,33.0,Fast,11.0,1800x2880,1800.0,2880.0,308.75,144.0,8.0,,13.0,,Android,13.0,,,not_available,Wi-Fi
+4,Lenovo Xiaoxin Pad Pro 12.7 (8GB RAM + 256GB),Lenovo,4.7,20499,Snapdragon,8.0,3.2,8,256.0,10200.0,20.0,Fast,12.7,2944x1840,2944.0,1840.0,273.36,144.0,13.0,,8.0,,,,1TB,Single Sim,5G,Wi-Fi
+5,Samsung Galaxy Tab A9 Plus Tablet (5G+ 8GB RAM + 128GB),Samsung,4.75,23399,Snapdragon,8.0,2.2,8,128.0,7040.0,15.0,Fast,11.0,1200x1920,1200.0,1920.0,205.83,90.0,5.0,,8.0,,Android,13.0,1TB,,5G,Wi-Fi
+6,OnePlus Pad Go Tablet,OnePlus,4.6,21999,Helio,8.0,2.2,8,128.0,8000.0,33.0,Fast,11.35,1720x2408,1720.0,2408.0,260.72,90.0,8.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+7,Xiaomi Redmi Pad (4GB RAM + 128GB),Xiaomi,4.7,12599,Helio,8.0,2.2,4,128.0,8000.0,18.0,Fast,10.61,1200x2000,1200.0,2000.0,219.83,90.0,8.0,,8.0,,,,1TB,,not_available,Wi-Fi
+8,Apple iPad 9th Gen 10.2 2021 Tablet (Wi-Fi+64GB),Apple,4.7,25999,Bionic,6.0,2.65,,64.0,,,,10.2,2160x1620,2160.0,1620.0,264.71,,12.0,,8.0,,iOS,15.0,Not_available,,not_available,Wi-Fi
+9,Honor Pad 9,Honor,4.65,16990,Snapdragon,8.0,2.2,8,128.0,8300.0,35.0,Fast,12.1,1600x2560,1600.0,2560.0,249.49,120.0,8.0,,13.0,,Android,13.0,,,not_available,Wi-Fi
+10,Xiaomi Pad 7 Pro,Xiaomi,4.0,34990,Snapdragon,8.0,3.2,8,128.0,10000.0,80.0,Fast,10.0,1800x2880,1800.0,2880.0,339.62,144.0,32.0,,50.0,2.0,Android,13.0,,,not_available,Wi-Fi
+11,Samsung Galaxy Tab S9 FE,Samsung,4.0,42999,Exynos,8.0,2.4,6,128.0,8000.0,45.0,Fast,10.9,1440x2304,1440.0,2304.0,249.26,90.0,12.0,,8.0,,,,1TB,Single Sim,5G,Wi-Fi
+12,Xiaomi Pad 6 Tablet,Xiaomi,4.3,26999,Snapdragon,8.0,3.2,6,128.0,8840.0,33.0,Fast,11.0,1800x2880,1800.0,2880.0,308.75,144.0,8.0,,13.0,,Android,13.0,,,not_available,Wi-Fi
+13,Samsung Galaxy Tab A9 Plus Tablet (Wi-Fi+8GB RAM+128GB),Samsung,4.15,19999,Snapdragon,8.0,2.2,8,128.0,7040.0,15.0,Fast,11.0,1200x1920,1200.0,1920.0,205.83,90.0,5.0,,8.0,,Android,13.0,1TB,,,Wi-Fi
+14,Apple iPad 10th Gen Tablet (Wi-Fi + 64GB),Apple,4.35,37900,Bionic,6.0,3.1,,64.0,,,,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iPadOS,16.0,Not_available,,not_available,Wi-Fi
+15,Motorola Moto Tab G62 LTE,Motorola,4.75,13999,Snapdragon,8.0,2.4,4,64.0,7700.0,20.0,Fast,10.6,1200x2000,1200.0,2000.0,220.04,,8.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+16,OnePlus Pad Tablet,OnePlus,4.6,36921,Dimensity,8.0,3.05,8,128.0,9510.0,67.0,Fast,11.61,2000x2800,2000.0,2800.0,296.38,144.0,8.0,,13.0,,Android,13.1,,,not_available,Wi-Fi
+17,OnePlus Pad Go Tablet (LTE+8GB+256GB),OnePlus,4.15,23999,Helio,8.0,2.2,8,256.0,8000.0,33.0,Fast,11.35,1720x2408,1720.0,2408.0,260.72,90.0,8.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+18,Samsung Galaxy Tab S9 FE Plus,Samsung,4.25,53536,Exynos,8.0,2.4,8,128.0,10090.0,45.0,Fast,12.4,1600x2560,1600.0,2560.0,243.46,120.0,12.0,,8.0,8.0,,,1TB,Single Sim,5G,Wi-Fi
+19,Realme Pad 2 Tablet,Realme,4.1,19429,Helio,8.0,2.2,6,128.0,8360.0,33.0,Fast,11.5,1200x2000,1200.0,2000.0,202.82,120.0,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+20,Xiaomi Pad 6 Pro Tablet,Xiaomi,4.6,29990,Snapdragon,8.0,3.19,8,128.0,8600.0,67.0,Fast,11.0,1800x2880,1800.0,2880.0,308.75,144.0,20.0,,50.0,2.0,Android,13.0,,,not_available,Wi-Fi
+21,Samsung Galaxy Tab S7 FE (6GB RAM + 128GB),Samsung,4.1,37999,Snapdragon,8.0,2.2,6,128.0,10090.0,45.0,Fast,12.4,1600x2560,1600.0,2560.0,243.46,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+22,Lenovo Tab P12,Lenovo,4.3,28999,Dimensity,8.0,2.0,8,256.0,10200.0,30.0,Fast,12.7,2944x1840,2944.0,1840.0,273.36,,8.0,,13.0,,Android,13.0,1TB,,,Wi-Fi
+23,Samsung Galaxy Tab S9 Ultra Tablet (5G + 12GB + 512GB),Samsung,4.45,133999,Snapdragon,8.0,3.2,12,512.0,11200.0,45.0,Fast,14.6,1848x2960,1848.0,2960.0,239.01,120.0,12.0,12.0,13.0,8.0,,,1TB,Single Sim,5G,Wi-Fi
+24,Xiaomi Redmi Pad (6GB RAM + 128GB),Xiaomi,4.65,16999,Helio,8.0,2.2,6,128.0,8000.0,18.0,Fast,10.61,1200x2000,1200.0,2000.0,219.83,90.0,8.0,,8.0,,,,1TB,,not_available,Wi-Fi
+25,Motorola Moto Tab G70,Motorola,4.2,16199,Helio,8.0,2.05,4,64.0,7700.0,20.0,Fast,11.0,1200x2000,1200.0,2000.0,212.03,,8.0,,13.0,,,,1TB,Single Sim,not_available,Wi-Fi
+26,Xiaomi Redmi Pad SE Tablet,Xiaomi,4.65,9999,Snapdragon,8.0,2.4,4,128.0,8000.0,10.0,Fast,11.0,1200x1920,1200.0,1920.0,205.83,90.0,5.0,,8.0,,,,1TB,,not_available,Wi-Fi
+27,Samsung Galaxy Tab A9 Tablet,Samsung,4.65,14999,Helio,8.0,2.2,4,64.0,5100.0,15.0,Fast,8.7,800x1340,800.0,1340.0,179.38,,2.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+28,Apple iPad Pro 2024 Tablet,Apple,4.25,109990,Apple,8.0,,8,256.0,7938.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iOS,16.0,,Single Sim,5G,Wi-Fi
+29,Motorola Moto Tab G70 (6GB RAM + 128GB),Motorola,4.7,17999,Helio,8.0,2.05,6,128.0,7700.0,20.0,Fast,11.0,1200x2000,1200.0,2000.0,212.03,,8.0,,13.0,,,,1TB,Single Sim,not_available,Wi-Fi
+30,Apple iPad Air 5th Gen Tablet (Wi-Fi + 64GB),Apple,4.25,50499,Apple,8.0,,,64.0,,,,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iOS,15.0,Not_available,,not_available,Wi-Fi
+31,Samsung Galaxy Tab S6 Lite 2024,Samsung,4.1,29999,Snapdragon,8.0,2.2,4,64.0,8040.0,25.0,Fast,10.5,1200x2000,1200.0,2000.0,222.13,,8.0,,12.0,,,,Supported,,not_available,Wi-Fi
+32,iQOO Pad Air,iQOO,4.2,20990,Snapdragon,8.0,3.2,8,256.0,8500.0,44.0,Fast,11.5,1840x2800,1840.0,2800.0,291.34,144.0,5.0,,8.0,,Android,13.0,Not_available,,,Wi-Fi
+33,Lenovo Tab M10 5G (4GB RAM + 128GB),Lenovo,4.75,18999,Snapdragon,8.0,2.2,4,128.0,7700.0,20.0,Fast,10.61,1200x2000,1200.0,2000.0,219.83,,8.0,,13.0,,,,1TB,Single Sim,5G,Wi-Fi
+34,Honor Pad X9,Honor,4.4,15999,Snapdragon,8.0,2.8,4,128.0,7250.0,,Fast,11.5,1200x2000,1200.0,2000.0,202.82,,5.0,,5.0,,Android,13.0,1TB,,,Wi-Fi
+35,OnePlus Pad Tablet (12 GB RAM + 256 GB),OnePlus,4.7,39387,Dimensity,8.0,3.05,12,256.0,9510.0,67.0,Fast,11.61,2000x2800,2000.0,2800.0,296.38,144.0,8.0,,13.0,,Android,13.1,,,not_available,Wi-Fi
+36,Samsung Galaxy Tab S9 Tablet,Samsung,4.45,83990,Snapdragon,8.0,3.2,8,128.0,8400.0,45.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,12.0,,13.0,,,,1TB,Single Sim,5G,Wi-Fi
+37,Samsung Galaxy Tab S6 Lite Tablet (Wi-Fi +4GB+128GB),Samsung,4.2,23999,Snapdragon,8.0,2.3,4,128.0,7040.0,15.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,Supported,,not_available,Wi-Fi
+38,Apple iPad Pro 11 2022 Tablet (Wi-Fi + 128GB),Apple,4.65,74999,Apple,8.0,,8,128.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+39,Realme Pad X Tablet (6GB RAM+ 128GB),Realme,4.35,27999,Snapdragon,8.0,2.2,6,128.0,8340.0,33.0,Fast,10.95,1200x2000,1200.0,2000.0,213.0,,8.0,,13.0,,,,512GB,Dual Sim,5G,Wi-Fi
+40,Oppo Pad Air Tablet (4GB RAM + 128GB),Oppo,4.6,13999,Snapdragon,8.0,2.4,4,128.0,7100.0,18.0,Fast,10.36,2000x1200,2000.0,1200.0,225.13,,8.0,,8.0,,,,,Dual Sim,not_available,Wi-Fi
+41,Samsung Galaxy Tab S6 Lite 2022 Tablet (Wi-Fi Only),Samsung,4.6,21999,Snapdragon,8.0,2.3,4,64.0,7040.0,15.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,Supported,,not_available,Wi-Fi
+42,Realme Pad 5G Tablet,Realme,4.3,24999,Snapdragon,8.0,3.2,8,256.0,8360.0,18.0,Fast,10.4,1080x2560,1080.0,2560.0,267.16,120.0,8.0,,8.0,,,,Supported,Dual Sim,5G,Wi-Fi
+43,Samsung Galaxy Tab A8 10.5 2021 Tablet (4GB RAM + 64GB),Samsung,4.3,14999,Tiger,8.0,2.0,4,64.0,7040.0,15.0,Fast,10.5,1200x1920,1200.0,1920.0,215.63,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+44,Samsung Galaxy Tab S10 Tablet,Samsung,4.1,89999,Snapdragon,8.0,3.3,8,128.0,9400.0,45.0,Fast,11.5,1600x2560,1600.0,2560.0,262.51,120.0,12.0,,16.0,,,,1TB,Single Sim,5G,Wi-Fi
+45,Vivo Pad 3,Vivo,4.45,34990,Dimensity,8.0,3.25,8,128.0,10500.0,44.0,Fast,12.4,1968x2800,1968.0,2800.0,276.0,144.0,8.0,,13.0,2.0,Android,13.0,,,not_available,Wi-Fi
+46,OnePlus Pad Go Tablet (Wi-FI Only),OnePlus,4.5,19999,Helio,8.0,2.2,8,128.0,8000.0,33.0,Fast,11.35,1720x2408,1720.0,2408.0,260.72,90.0,8.0,,8.0,,Android,13.0,1TB,,,Wi-Fi
+47,Samsung Galaxy Tab S9 FE (Wi-Fi Only),Samsung,4.35,36998,Exynos,8.0,2.4,6,128.0,8000.0,45.0,Fast,10.9,1440x2304,1440.0,2304.0,249.26,90.0,12.0,,8.0,,Android,13.0,1TB,,,Wi-Fi
+48,Lenovo Tab M10 5G,Lenovo,4.15,20999,Snapdragon,8.0,2.2,6,128.0,7700.0,20.0,Fast,10.61,1200x2000,1200.0,2000.0,219.83,,8.0,,13.0,,,,1TB,Single Sim,5G,Wi-Fi
+49,Vivo Pad Air Tablet,Vivo,4.6,20499,Snapdragon,8.0,3.2,8,128.0,8500.0,44.0,Fast,11.5,1840x2800,1840.0,2800.0,291.34,144.0,5.0,,8.0,,Android,13.0,Not_available,,,Wi-Fi
+50,iQOO Pad,iQOO,4.55,29999,Dimensity,8.0,3.2,8,128.0,10000.0,44.0,Fast,12.1,1968x2800,1968.0,2800.0,282.85,144.0,8.0,,13.0,2.0,Android,13.0,,,not_available,Wi-Fi
+51,Apple iPad 10th Gen Tablet,Apple,4.45,53900,Bionic,6.0,3.1,,64.0,,,,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iPadOS,16.0,Not_available,Single Sim,5G,Wi-Fi
+52,Xiaomi Redmi Pad,Xiaomi,4.6,13999,Helio,8.0,2.2,3,64.0,8000.0,18.0,Fast,10.61,1200x2000,1200.0,2000.0,219.83,90.0,8.0,,8.0,,,,1TB,,not_available,Wi-Fi
+53,Xiaomi Redmi Pad 5G,Xiaomi,4.4,21499,Snapdragon,8.0,2.4,4,64.0,,,,8.0,1080x2340,1080.0,2340.0,322.15,90.0,16.0,,48.0,,,,Supported,,5G,Wi-Fi
+54,Lenovo Tab P10 Tablet,Lenovo,4.4,22899,Snapdragon,8.0,1.8,4,64.0,7000.0,,,10.1,1200x1920,1200.0,1920.0,224.17,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+55,Nubia Pad 3D 2,Nubia,4.55,99900,Snapdragon,8.0,3.2,,256.0,10000.0,66.0,Fast,12.1,1600x2560,1600.0,2560.0,249.49,144.0,8.0,8.0,13.0,13.0,Android,14.0,Supported,,,Wi-Fi
+56,Samsung Galaxy Tab A9 Plus Tablet  (Wi-Fi + 4GB RAM + 64GB),Samsung,4.25,17950,Snapdragon,8.0,2.2,4,64.0,7040.0,15.0,Fast,11.0,1200x1920,1200.0,1920.0,205.83,90.0,5.0,,8.0,,Android,13.0,1TB,,,Wi-Fi
+57,Samsung Galaxy Tab S9 FE Plus 2023 (Wi-FI Only+8GB RAM + 128GB),Samsung,4.75,43999,Exynos,8.0,2.4,8,128.0,10090.0,45.0,Fast,12.4,1600x2560,1600.0,2560.0,243.46,120.0,12.0,,8.0,8.0,Android,13.0,1TB,,,Wi-Fi
+58,Samsung Galaxy Tab S9 FE Plus (12GB RAM + 256GB),Samsung,4.15,61999,Exynos,8.0,2.4,12,256.0,10090.0,45.0,Fast,12.4,1600x2560,1600.0,2560.0,243.46,120.0,12.0,,8.0,8.0,,,1TB,Single Sim,5G,Wi-Fi
+59,Motorola Moto Tab G62 LTE (4GB RAM + 128GB),Motorola,4.5,15999,Snapdragon,8.0,2.4,4,128.0,7700.0,20.0,Fast,10.6,1200x2000,1200.0,2000.0,220.04,,8.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+60,Motorola Moto Tab G62 (4GB RAM + 128GB+ Wi-Fi),Motorola,4.6,13999,Snapdragon,8.0,2.4,4,128.0,7700.0,20.0,Fast,10.6,1200x2000,1200.0,2000.0,220.04,,8.0,,8.0,,,,1TB,,not_available,Wi-Fi
+61,Xiaomi Pad 6 Max 14 Tablet,Xiaomi,4.55,43999,Snapdragon,8.0,3.2,8,256.0,10000.0,67.0,Fast,14.0,1800x2880,1800.0,2880.0,242.59,120.0,20.0,,50.0,,Android,13.0,,,not_available,Wi-Fi
+62,Samsung Galaxy Tab S9 Tablet (5G+12GB+256GB),Samsung,4.3,88990,Snapdragon,8.0,3.2,12,256.0,8400.0,45.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,12.0,,13.0,,,,1TB,Single Sim,5G,Wi-Fi
+63,Realme Pad 2 Tablet (8GB RAM + 256GB),Realme,4.55,22999,Helio,8.0,2.2,8,256.0,8360.0,33.0,Fast,11.5,1200x2000,1200.0,2000.0,202.82,120.0,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+64,Lenovo Tab M10 HD 2nd Gen Tablet (3GB RAM + 32GB),Lenovo,4.65,8999,Helio,8.0,2.0,3,32.0,5000.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+65,Lenovo Tab Extreme,Lenovo,4.15,96990,Dimensity,8.0,3.05,12,256.0,12300.0,68.0,Fast,14.5,1876x3000,1876.0,3000.0,244.02,120.0,13.0,,13.0,,,,Supported,,not_available,Wi-Fi
+66,Honor Pad X8,Honor,4.65,8999,Helio,8.0,2.0,3,32.0,5100.0,22.5,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,2.0,,5.0,,,,512GB,,not_available,Wi-Fi
+67,Lenovo Tab P11 2nd Gen,Lenovo,4.15,17999,Helio,8.0,2.2,6,128.0,,,,11.5,1200x2000,1200.0,2000.0,202.82,120.0,8.0,,13.0,,Android,12.0,512GB,Single Sim,not_available,Wi-Fi
+68,Nokia T21 Tablet,Nokia,4.7,11999,Tiger,8.0,2.0,4,64.0,8200.0,18.0,Fast,10.36,1200x2000,1200.0,2000.0,225.13,,8.0,,8.0,,,,512GB,Single Sim,not_available,Wi-Fi
+69,Vivo Pad Tablet,Vivo,4.4,28990,Snapdragon,8.0,3.2,8,128.0,8040.0,44.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,8.0,,13.0,8.0,Android,12.0,,,not_available,Wi-Fi
+70,Samsung Galaxy Tab S7 FE (Wi-Fi Only),Samsung,4.55,32499,Snapdragon,8.0,2.4,4,64.0,10090.0,45.0,Fast,12.4,1600x2560,1600.0,2560.0,243.46,,5.0,,8.0,,,,1TB,,not_available,Wi-Fi
+71,Apple iPad 9th Gen 10.2 2021 Tablet,Apple,4.6,38990,Bionic,6.0,2.65,,64.0,,,,10.2,2160x1620,2160.0,1620.0,264.71,,12.0,,8.0,,iOS,15.0,Not_available,Single Sim,not_available,Wi-Fi
+72,Xiaomi Mi Pad 5 Pro 5G Tablet,Xiaomi,4.4,39999,Snapdragon,8.0,3.2,8,256.0,8600.0,67.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,8.0,,50.0,5.0,Android,11.0,,Single Sim,5G,Wi-Fi
+73,Samsung Galaxy Tab S8 Ultra 5G Tablet,Samsung,4.5,89999,Snapdragon,8.0,3.0,12,256.0,11200.0,45.0,Fast,14.6,1848x2960,1848.0,2960.0,239.01,120.0,12.0,12.0,13.0,6.0,,,1TB,Single Sim,5G,Wi-Fi
+74,Samsung Galaxy Tab S6 Lite,Samsung,4.15,30999,Exynos,8.0,2.3,4,64.0,7040.0,15.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+75,Lenovo Tab M10a 5G,Lenovo,4.5,15990,Snapdragon,8.0,2.2,4,128.0,7700.0,20.0,Fast,10.61,1200x2000,1200.0,2000.0,219.83,,8.0,,13.0,,,,1TB,Single Sim,5G,Wi-Fi
+76,Xiaomi Pad 7 Tablet,Xiaomi,4.4,32990,Snapdragon,8.0,3.0,8,256.0,9820.0,45.0,Fast,11.0,1800x3200,1800.0,3200.0,333.77,144.0,8.0,,13.0,,Android,13.0,,,not_available,Wi-Fi
+77,iKall N11 New Tablet (Wi-Fi Only),iKall,4.5,3499,,,,2,16.0,3000.0,,,7.0,1024x600,1024.0,600.0,169.55,,0.3,,2.0,,Android,6.0,,Dual Sim,not_available,Wi-Fi
+78,Apple iPad Air 6th Gen 5G Tablet,Apple,4.15,69999,Apple,8.0,,,64.0,,,,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iOS,17.0,Not_available,Single Sim,5G,Wi-Fi
+79,Samsung Galaxy Tab A9 Tablet (Wi-Fi Only),Samsung,4.55,11999,Helio,8.0,2.2,4,64.0,5100.0,15.0,Fast,8.7,800x1340,800.0,1340.0,179.38,,2.0,,8.0,,Android,13.0,1TB,,,Wi-Fi
+80,Chuwi Hi10 X Pro Tablet,Chuwi,4.0,7355,Unisoc,8.0,2.0,4,128.0,5000.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,512GB,Dual Sim,not_available,Wi-Fi
+81,Samsung Galaxy Tab S9 Plus Tablet (Wi-Fi+12GB+256GB),Samsung,4.25,90999,Snapdragon,8.0,3.2,12,256.0,10090.0,45.0,Fast,12.4,1752x2800,1752.0,2800.0,266.37,120.0,12.0,,13.0,8.0,Android,13.0,1TB,,,Wi-Fi
+82,Oppo Pad Air 2 Tablet,Oppo,4.05,14990,Helio,8.0,2.2,6,128.0,8000.0,33.0,Fast,11.4,2408x1720,2408.0,1720.0,259.58,90.0,8.0,,8.0,,,,,Dual Sim,not_available,Wi-Fi
+83,Nubia Redmagic Gaming Tablet,Nubia,4.05,39999,Snapdragon,8.0,3.2,12,256.0,10000.0,80.0,Fast,12.1,1600x2560,1600.0,2560.0,249.49,144.0,16.0,,13.0,,Android,13.0,Not_available,,5G,Wi-Fi
+84,Honor Pad X8 (4GB RAM + 64GB),Honor,4.15,12999,Helio,8.0,2.0,4,64.0,5100.0,22.5,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,2.0,,5.0,,,,512GB,,not_available,Wi-Fi
+85,Lenovo Tab M9 (4GB RAM+64GB+ WI-Fi Only),Lenovo,4.4,11423,Helio,8.0,2.0,4,64.0,5100.0,10.0,Fast,9.0,800x1340,800.0,1340.0,173.4,,2.0,,8.0,,Android,12.0,512GB,,,Wi-Fi
+86,Samsung Galaxy Tab S9 Plus,Samsung,4.3,104999,Snapdragon,8.0,3.2,12,256.0,10090.0,45.0,Fast,12.4,1752x2800,1752.0,2800.0,266.37,120.0,12.0,,13.0,8.0,,,1TB,Single Sim,5G,Wi-Fi
+87,Samsung Galaxy Tab S9 Ultra Tablet,Samsung,4.1,122999,Snapdragon,8.0,3.2,12,256.0,11200.0,45.0,Fast,14.6,1848x2960,1848.0,2960.0,239.01,120.0,12.0,12.0,13.0,8.0,,,1TB,Single Sim,5G,Wi-Fi
+88,Vivo Pad 2,Vivo,4.0,29990,Dimensity,8.0,3.05,8,128.0,10000.0,44.0,Fast,12.1,1968x2800,1968.0,2800.0,282.85,144.0,8.0,,13.0,2.0,Android,13.0,,,not_available,Wi-Fi
+89,Lenovo Tab M9,Lenovo,4.35,8999,Helio,8.0,2.0,3,32.0,5100.0,10.0,Fast,9.0,800x1340,800.0,1340.0,173.4,,2.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+90,Lenovo Tab M10 HD 2nd Gen Tablet (3GB RAM + 32GB),Lenovo,4.65,8999,Helio,8.0,2.0,3,32.0,5000.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+91,Apple iPad 10th Gen Tablet (Wi-Fi + 256GB),Apple,4.15,53900,Bionic,6.0,3.1,,256.0,,,,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iPadOS,16.0,Not_available,,not_available,Wi-Fi
+92,Apple iPad Pro 12.9 2022 Tablet,Apple,4.55,124050,Apple,8.0,,8,128.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+93,Lenovo M10 Plus 3rd Gen Tablet,Lenovo,4.3,15999,Snapdragon,8.0,2.4,6,128.0,7700.0,20.0,Fast,10.61,2000x1200,2000.0,1200.0,219.83,,8.0,,8.0,,,,1TB,,not_available,Wi-Fi
+94,Apple iPad 10th Gen Tablet (256GB),Apple,4.25,68900,Bionic,6.0,3.1,,256.0,,,,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iPadOS,16.0,Not_available,Single Sim,5G,Wi-Fi
+95,Apple iPad Mini 7,Apple,4.4,64990,Bionic,6.0,3.22,,64.0,,,,8.3,2266x1488,2266.0,1488.0,326.61,,12.0,,12.0,,iOS,15.0,Not_available,Single Sim,5G,Wi-Fi
+96,Motorola Moto Tab G62 (Wi-Fi Only),Motorola,4.4,12999,Snapdragon,8.0,2.4,4,64.0,7700.0,20.0,Fast,10.6,1200x2000,1200.0,2000.0,220.04,,8.0,,8.0,,,,1TB,,not_available,Wi-Fi
+97,Lenovo Tab P12 Pro (Wi-Fi + 256GB),Lenovo,4.5,49999,Snapdragon,8.0,3.2,8,256.0,10200.0,45.0,Fast,12.6,2560x1600,2560.0,1600.0,239.59,120.0,8.0,,13.0,5.0,,,512GB,,not_available,Wi-Fi
+98,Oppo Pad Air Tablet,Oppo,4.15,15999,Snapdragon,8.0,2.4,4,64.0,7100.0,18.0,Fast,10.36,2000x1200,2000.0,1200.0,225.13,,8.0,,8.0,,,,,Dual Sim,not_available,Wi-Fi
+99,Apple iPad Air 5th Gen Tablet (Wi-Fi + 256GB),Apple,4.35,65499,Apple,8.0,,,256.0,,,,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iOS,15.0,Not_available,,not_available,Wi-Fi
+100,Samsung Galaxy Tab S8 Tablet (Wi-Fi Only),Samsung,4.65,49999,Snapdragon,8.0,3.0,8,128.0,8000.0,45.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,12.0,,13.0,6.0,,,1TB,,not_available,Wi-Fi
+101,Samsung Galaxy Tab S8 FE,Samsung,4.75,39990,Kompanio,8.0,2.6,4,64.0,10000.0,55.0,Fast,12.4,1600x2560,1600.0,2560.0,243.46,,5.0,,13.0,,,,1TB,Single Sim,not_available,Wi-Fi
+102,Lenovo Legion Pad Gaming Tablet,Lenovo,4.75,24999,Snapdragon,8.0,3.2,8,128.0,7100.0,30.0,Fast,7.0,1080x2400,1080.0,2400.0,375.97,120.0,8.0,,8.0,,,,512GB,Dual Sim,5G,Wi-Fi
+103,Lenovo Tab K10 FHD 4G Tablet,Lenovo,4.15,10999,Helio,8.0,2.0,3,32.0,7500.0,,,10.3,1920x1200,1920.0,1200.0,219.82,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+104,Apple iPad Mini 6th Gen 2021 Tablet (Wi-Fi+64GB),Apple,4.55,46900,Bionic,6.0,,,64.0,,,,8.3,2266x1488,2266.0,1488.0,326.61,,12.0,,12.0,,iOS,15.0,Not_available,,,Wi-Fi
+105,OPPO Pad Tablet,OPPO,4.05,27999,Snapdragon,8.0,3.2,6,128.0,8360.0,33.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,8.0,,13.0,,,,512GB,Dual Sim,5G,Wi-Fi
+106,Apple iPad Air 5th Gen 5G Tablet,Apple,4.4,61499,Apple,8.0,,,64.0,7730.0,20.0,Fast,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iOS,15.0,,Single Sim,5G,Wi-Fi
+107,Xiaomi Mi Pad 5 Pro 5G Tablet,Xiaomi,4.4,39999,Snapdragon,8.0,3.2,8,256.0,8600.0,67.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,8.0,,50.0,5.0,Android,11.0,,Single Sim,5G,Wi-Fi
+108,Samsung Galaxy Tab S8 Ultra 5G Tablet,Samsung,4.5,89999,Snapdragon,8.0,3.0,12,256.0,11200.0,45.0,Fast,14.6,1848x2960,1848.0,2960.0,239.01,120.0,12.0,12.0,13.0,6.0,,,1TB,Single Sim,5G,Wi-Fi
+109,Samsung Galaxy Tab S7 FE,Samsung,4.35,40499,Snapdragon,8.0,2.2,4,64.0,10090.0,45.0,Fast,12.4,1600x2560,1600.0,2560.0,243.46,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+110,Samsung Galaxy Tab S8 Plus 5G Tablet,Samsung,4.0,85999,Snapdragon,8.0,3.0,8,128.0,10090.0,45.0,Fast,12.4,1752x2800,1752.0,2800.0,266.37,120.0,12.0,,13.0,6.0,,,1TB,Single Sim,5G,Wi-Fi
+111,Samsung Galaxy Tab S7 Plus (Wi-Fi Only),Samsung,4.7,49999,Snapdragon,8.0,3.09,6,128.0,10090.0,45.0,Fast,12.4,2800x1752,2800.0,1752.0,266.37,120.0,8.0,,13.0,5.0,,,1TB,,not_available,Wi-Fi
+112,Lenovo M10 FHD REL,Lenovo,4.2,7999,Snapdragon,8.0,1.8,2,32.0,7000.0,,,10.04,1200x1920,1200.0,1920.0,225.51,,5.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+113,Samsung Galaxy Tab S7 Plus,Samsung,4.75,83999,Snapdragon,8.0,3.09,6,128.0,10090.0,45.0,Fast,12.4,2800x1752,2800.0,1752.0,266.37,120.0,8.0,,13.0,5.0,,,1TB,Single Sim,not_available,Wi-Fi
+114,iQOO Pad 2,iQOO,4.0,34990,Snapdragon,8.0,3.2,8,256.0,10500.0,50.0,Fast,12.1,1968x2800,1968.0,2800.0,282.85,144.0,16.0,,13.0,8.0,Android,14.0,,,not_available,Wi-Fi
+115,Google Pixel Tablet (8GB RAM +256GB),Google,4.4,96834,Tensor,8.0,2.85,8,256.0,,,,10.95,1600x2560,1600.0,2560.0,275.7,90.0,8.0,,8.0,,Android,13.0,Not_available,,not_available,Wi-Fi
+116,Vivo Pad 3 Pro,Vivo,4.2,44990,Snapdragon,8.0,3.3,8,128.0,10500.0,44.0,Fast,12.4,1968x2800,1968.0,2800.0,276.0,144.0,8.0,,13.0,2.0,Android,13.0,,,not_available,Wi-Fi
+117,Google Pixel Tablet 2,Google,4.45,79990,Tensor,8.0,3.0,8,128.0,,,,11.95,1600x2760,1600.0,2760.0,266.97,90.0,12.0,,12.0,,Android,13.0,Not_available,,not_available,Wi-Fi
+118,Doogee T30S Tablet,Doogee,4.25,24799,Unisoc,8.0,1.6,6,256.0,8580.0,,,11.0,1200x1920,1200.0,1920.0,205.83,,8.0,,13.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+119,Ulefone Armor Pad,Ulefone,4.55,16599,Helio,8.0,2.0,4,64.0,7650.0,,,8.0,1280x800,1280.0,800.0,188.68,,5.0,,13.0,,,,256GB,Dual Sim,not_available,Wi-Fi
+120,Lenovo Tab K11,Lenovo,4.55,19990,Helio,8.0,2.0,4,128.0,7040.0,15.0,Fast,10.95,1200x1920,1200.0,1920.0,206.77,90.0,8.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+121,iKall N11 New Tablet (Wi-Fi Only),iKall,4.5,3499,,,,2,16.0,3000.0,,,7.0,1024x600,1024.0,600.0,169.55,,0.3,,2.0,,Android,6.0,,Dual Sim,not_available,Wi-Fi
+122,Oppo Pad Neo Tablet,Oppo,4.35,21990,Helio,8.0,2.2,6,128.0,8000.0,33.0,Fast,11.36,2408x1720,2408.0,1720.0,260.49,90.0,8.0,,8.0,,,,,Dual Sim,not_available,Wi-Fi
+123,Samsung Galaxy Tab A9 Kids Edition Tablet,Samsung,4.55,16990,Helio,8.0,2.2,4,64.0,5100.0,15.0,Fast,8.7,800x1340,800.0,1340.0,179.38,,2.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+124,Samsung Galaxy Tab Active 5 Pro,Samsung,4.35,54999,,,,,,4900.0,,,,,,,,,,,,,,,,,not_available,Wi-Fi
+125,Samsung Galaxy Tab Active 5,Samsung,4.7,39999,Octa,8.0,,6,128.0,5050.0,,,8.0,1920x1200,1920.0,1200.0,283.02,,5.0,,13.0,,,,64GB,Dual Sim,5G,Wi-Fi
+126,Huawei MatePad Pro 11 2024 Tablet,Huawei,4.65,49990,Kirin,8.0,2.62,12,256.0,8300.0,66.0,Fast,11.0,2560x1600,2560.0,1600.0,274.44,120.0,16.0,,13.0,8.0,,,1TB,,not_available,Wi-Fi
+127,DOMO Slate SL36 SE Tablet,DOMO,4.55,7490,Helio,8.0,2.5,2,32.0,5020.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+128,Blackview Tab 18,Blackview,4.25,19990,Helio,8.0,2.2,12,256.0,8800.0,33.0,Fast,12.0,1200x2000,1200.0,2000.0,194.37,,8.0,,16.0,,,,(Hybrid),Dual Sim,not_available,Wi-Fi
+129,Doogee T20 Ultra Tablet,Doogee,4.7,23990,Helio,8.0,2.2,12,256.0,10800.0,,,12.0,1200x2000,1200.0,2000.0,194.37,90.0,8.0,,16.0,,,,2TB,Dual Sim,not_available,Wi-Fi
+130,Doogee T30 Ultra Tablet,Doogee,4.6,25990,Helio,8.0,2.2,12,256.0,8580.0,18.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,90.0,8.0,,16.0,,,,2TB,Dual Sim,not_available,Wi-Fi
+131,Doogee T20 Mini Tablet,Doogee,4.1,12990,Unisoc,8.0,2.0,4,128.0,5060.0,,,8.4,1080x2400,1080.0,2400.0,313.31,,5.0,,13.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+132,Apple iPad Air 12.9 Tablet,Apple,4.0,79999,Apple,8.0,,,64.0,,,,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,,iOS,17.0,Not_available,Single Sim,5G,Wi-Fi
+133,Teclast T45HD Tablet,Teclast,4.35,19999,Unisoc,8.0,2.0,8,128.0,7200.0,,,10.51,1200x1920,1200.0,1920.0,215.43,,8.0,,13.0,13.0,,,1TB,Dual Sim,not_available,Wi-Fi
+134,Apple iPad 11th Gen Tablet,Apple,4.25,59999,Bionic,6.0,3.22,,64.0,,,,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iPadOS,17.0,Not_available,Single Sim,5G,Wi-Fi
+135,Ulefone Armor Pad 2,Ulefone,4.45,20999,Helio,8.0,2.2,8,256.0,18600.0,,,11.0,1200x2000,1200.0,2000.0,212.03,,16.0,,48.0,,,,Supported,Dual Sim,not_available,Wi-Fi
+136,Wishtel IRA T808 Tablet,Wishtel,4.2,10416,Octa,8.0,2.0,3,32.0,5500.0,,,8.0,1280x800,1280.0,800.0,188.68,,5.0,,8.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+137,Samsung Galaxy Tab A9 Tablet (Wi-Fi Only),Samsung,4.55,11999,Helio,8.0,2.2,4,64.0,5100.0,15.0,Fast,8.7,800x1340,800.0,1340.0,179.38,,2.0,,8.0,,Android,13.0,1TB,,,Wi-Fi
+138,Samsung Galaxy Tab S9 FE (5G + 8GB RAM + 256GB),Samsung,4.1,55999,Exynos,8.0,2.4,8,256.0,8000.0,45.0,Fast,10.9,1440x2304,1440.0,2304.0,249.26,90.0,12.0,,8.0,,,,1TB,Single Sim,5G,Wi-Fi
+139,Samsung Galaxy Tab S9 FE (Wi-Fi Only + 8GB RAM + 256GB),Samsung,4.2,47999,Exynos,8.0,2.4,8,256.0,8000.0,45.0,Fast,10.9,1440x2304,1440.0,2304.0,249.26,90.0,12.0,,8.0,,Android,13.0,1TB,,,Wi-Fi
+140,iKall N20 4G Tablet,iKall,4.25,7999,Octa,8.0,2.0,3,32.0,5000.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+141,DOMO Slate SLP8 T310 Tablet,DOMO,4.65,10490,Octa,8.0,1.6,4,64.0,5020.0,,,10.1,800x1280,800.0,1280.0,149.45,,5.0,,13.0,,,,512GB,Dual Sim,not_available,Wi-Fi
+142,Lenovo Tab M11,Lenovo,4.65,19990,Helio,8.0,2.0,4,64.0,7040.0,15.0,Fast,11.0,1200x1920,1200.0,1920.0,205.83,90.0,8.0,,13.0,8.0,Android,13.0,128GB,,,Wi-Fi
+143,Wishtel IRA T811 Tablet PC,Wishtel,4.35,12340,Octa,8.0,2.0,4,64.0,5500.0,,,8.4,1920x1200,1920.0,1200.0,269.54,,5.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+144,iKall N6 New Tablet,iKall,4.3,3999,Quad,4.0,1.3,2,32.0,3000.0,,,7.0,1024x600,1024.0,600.0,169.55,,2.0,,5.0,,Android,10.0,32GB,,,Wi-Fi
+145,Amazon Fire HD 10 2023 Tablet,Amazon,4.0,12999,,,,3,32.0,,,,10.01,1200x1920,1200.0,1920.0,226.19,,,,,,,,Supported,,not_available,Wi-Fi
+146,Huawei MatePad Pro 13.2,Huawei,4.45,35000,Kirin,8.0,2.62,12,256.0,10100.0,88.0,Fast,13.2,2880x1920,2880.0,1920.0,262.22,144.0,16.0,,13.0,8.0,Harmony,4.0,Not_available,,,Wi-Fi
+147,Motorola Moto Tab G84,Motorola,4.45,19999,Octa,8.0,,6,128.0,7800.0,33.0,Fast,10.6,1200x2000,1200.0,2000.0,220.04,,8.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+148,Huawei MatePad 11.5 PaperMatte Edition Tablet,Huawei,4.4,40999,Snapdragon,8.0,2.4,8,256.0,7700.0,,Fast,11.5,1440x2200,1440.0,2200.0,228.64,120.0,8.0,,13.0,,Harmony,3.1,,,not_available,Wi-Fi
+149,Cubot Tab 40,Cubot,4.05,10499,Tiger,8.0,2.0,8,128.0,7000.0,,,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,13.0,,,,(Hybrid),Dual Sim,not_available,Wi-Fi
+150,Doogee T10 Pro Tablet,Doogee,4.7,29999,Unisoc,8.0,2.0,15,256.0,8580.0,18.0,Fast,10.1,,,,,,8.0,,13.0,,Android,12.0,Not_available,,,Wi-Fi
+151,Doogee T10 Plus Tablet,Doogee,4.0,24999,Unisoc,8.0,2.0,20,256.0,8250.0,18.0,Fast,10.51,,,,,,8.0,,13.0,,Android,13.0,1TB,,,Wi-Fi
+152,Doogee U10 Tablet,Doogee,4.6,23999,Rockchip,4.0,2.0,9,,5060.0,,,10.1,,,,,,5.0,,8.0,,,,Not_available,,,Wi-Fi
+153,TCL Tab 10 Gen2,TCL,4.6,14990,Helio,8.0,2.0,4,128.0,6000.0,10.0,Fast,10.36,1200x2000,1200.0,2000.0,225.13,,5.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+154,Lenovo Tab M8 4th Gen 2024 (3 GB RAM + 32 GB + WiFi Only),Lenovo,4.6,14999,Helio,8.0,,3,32.0,5100.0,,,8.0,1280x800,1280.0,800.0,188.68,,2.0,,5.0,,Android,13.0,Supported,,,Wi-Fi
+155,Lenovo Tab M8 4th Gen 2024 (4 GB RAM + 64 GB + WiFi Only),Lenovo,4.5,17999,Helio,8.0,,4,64.0,5100.0,,,8.0,1280x800,1280.0,800.0,188.68,,2.0,,8.0,,,,Supported,No Sim Supported,not_available,Wi-Fi
+156,Teclast M50 Pro Tablet,Teclast,4.7,15900,Tiger,8.0,2.0,8,128.0,6000.0,,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,13.0,0.3,,,(Hybrid),Dual Sim,not_available,Wi-Fi
+157,iKall N13 4G New Tablet,iKall,4.75,6999,Quad,4.0,2.0,3,32.0,4000.0,,,8.0,600x1024,600.0,1024.0,148.35,,5.0,,8.0,,Android,11.0,Supported,,,Wi-Fi
+158,Oukitel RT7 Titan Tablet,Oukitel,4.55,79999,Dimensity,8.0,2.0,12,256.0,32000.0,33.0,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,32.0,,48.0,20.0,Android,13.0,Supported,,5G,Wi-Fi
+159,Samsung Galaxy Tab S9 Ultra 2023 Tablet (Wi-Fi+12GB+256GB),Samsung,4.0,107014,Snapdragon,8.0,3.2,12,256.0,11200.0,45.0,Fast,14.6,1848x2960,1848.0,2960.0,239.01,120.0,12.0,12.0,13.0,8.0,Android,13.0,1TB,,,Wi-Fi
+160,Samsung Galaxy Tab S9 Tablet (Wi-Fi+8GB+128GB),Samsung,4.35,72999,Snapdragon,8.0,3.2,8,128.0,8400.0,45.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,12.0,,13.0,,Android,13.0,1TB,,,Wi-Fi
+161,Samsung Galaxy Tab S9 Tablet (Wi-Fi+12GB+256GB),Samsung,4.25,74999,Snapdragon,8.0,3.2,12,256.0,8400.0,45.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,12.0,,13.0,,Android,13.0,1TB,,,Wi-Fi
+162,Samsung Galaxy Tab S9 Ultra Tablet (Wi-Fi+12GB+512GB),Samsung,4.7,119999,Snapdragon,8.0,3.2,12,512.0,11200.0,45.0,Fast,14.6,1848x2960,1848.0,2960.0,239.01,120.0,12.0,12.0,13.0,8.0,Android,13.0,1TB,,,Wi-Fi
+163,Oukitel RT6 Tablet,Oukitel,4.65,19999,Helio,8.0,2.0,8,256.0,20000.0,33.0,Fast,10.1,1200x1920,1200.0,1920.0,224.17,,16.0,,16.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+164,Lenovo Legion Y700 2023 Gaming Tablet,Lenovo,4.4,29990,Snapdragon,8.0,3.2,12,256.0,6550.0,45.0,Fast,8.8,1600x2560,1600.0,2560.0,343.05,144.0,8.0,,13.0,2.0,,,Supported,Single Sim,not_available,Wi-Fi
+165,Acer Iconia Tab M10,Acer,4.05,11999,Kompanio,8.0,2.0,4,64.0,6000.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,13.0,,Android,,1TB,,,Wi-Fi
+166,HTC A104 Tablet,HTC,4.65,15999,Unisoc,8.0,2.0,8,128.0,7000.0,,,10.36,2000x1200,2000.0,1200.0,225.13,,5.0,,5.0,,,,512GB,Dual Sim,not_available,Wi-Fi
+167,Wishtel IRA T1021 4G,Wishtel,4.75,13380,Octa,8.0,2.0,4,64.0,8000.0,,,10.0,1920x1200,1920.0,1200.0,226.42,,5.0,,8.0,,,,256GB,Dual Sim,not_available,Wi-Fi
+168,Huawei MatePad 11.5,Huawei,4.45,26999,Snapdragon,8.0,2.4,6,128.0,7700.0,22.5,Fast,11.5,1440x2200,1440.0,2200.0,228.64,120.0,8.0,,13.0,,Harmony,3.1,,,not_available,Wi-Fi
+169,Acer One 10 T9-1212L Tablet (6GB RAM + 128GB),Acer,4.1,17899,Helio,8.0,2.0,6,128.0,7100.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,13.0,,,,1TB,Single Sim,not_available,Wi-Fi
+170,Doogee T10S Tablet,Doogee,4.05,16500,Unisoc,8.0,2.0,6,128.0,6600.0,,,10.1,1200x1920,1200.0,1920.0,224.17,,5.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+171,Doogee T20S Tablet,Doogee,4.35,24999,Tiger,8.0,2.0,8,128.0,7500.0,,,10.4,1200x1920,1200.0,1920.0,217.71,,5.0,,13.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+172,Lenovo Tab M9 (3GB RAM+32GB+ WI-Fi Only),Lenovo,4.45,8999,Helio,8.0,2.0,3,32.0,5100.0,10.0,Fast,9.0,800x1340,800.0,1340.0,173.4,,2.0,,8.0,,Android,12.0,Supported,,,Wi-Fi
+173,Blackview Active 8 Pro,Blackview,4.6,19990,Helio,8.0,2.2,8,256.0,22000.0,33.0,Fast,10.36,1200x2000,1200.0,2000.0,225.13,,16.0,,48.0,,,,(Hybrid),Dual Sim,not_available,Wi-Fi
+174,Honor Pad X8 Pro,Honor,4.35,10999,Snapdragon,8.0,2.8,4,128.0,7250.0,,Fast,11.5,2000x1200,2000.0,1200.0,202.82,120.0,5.0,,5.0,,Android,13.0,,,not_available,Wi-Fi
+175,Honor MagicPad 13 Tablet,Honor,4.05,36999,Snapdragon,8.0,2.84,8,256.0,10050.0,66.0,Fast,13.0,1840x2880,1840.0,2880.0,262.89,144.0,9.0,,13.0,,Android,13.0,Not_available,,,Wi-Fi
+176,Boox Tab Mini C eReader,Boox,4.1,87282,Snapdragon,8.0,,4,64.0,5000.0,,,7.8,1404x1872,1404.0,1872.0,300.0,,,,,,Android,11.0,Not_available,,,Wi-Fi
+177,iKall N3 Plus Tablet,iKall,4.1,6899,Octa,8.0,2.0,3,32.0,4500.0,,,8.0,480x640,480.0,640.0,100.0,,2.0,,5.0,,,,128GB,Single Sim,not_available,Wi-Fi
+178,Realme Pad Mini Tablet (6GB RAM + 128GB),Realme,4.35,13999,Tiger,8.0,2.0,6,128.0,6400.0,18.0,Fast,8.68,800x1340,800.0,1340.0,179.8,,5.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+179,Teclast T50 Pro Tablet,Teclast,4.25,15000,Helio,8.0,2.2,8,256.0,8000.0,18.0,Fast,11.0,2000x1200,2000.0,1200.0,212.03,,8.0,,20.0,20.0,,,1TB,Dual Sim,not_available,Wi-Fi
+180,Domo Slate TAB SSM28 Tablet,Domo,4.65,7999,Helio,4.0,1.5,4,64.0,4020.0,,,8.0,1280x800,1280.0,800.0,188.68,,2.0,,5.0,,,,512GB,Dual Sim,not_available,Wi-Fi
+181,Teclast P26T Tablet,Teclast,4.3,5990,Allwinner,8.0,,4,64.0,5000.0,,Fast,10.1,1280x800,1280.0,800.0,149.45,,2.0,,5.0,,Android,13.0,1TB,,,Wi-Fi
+182,Lenovo Tab M9 (4GB RAM + 64GB + LTE),Lenovo,4.25,10349,Helio,8.0,2.0,4,64.0,5100.0,10.0,Fast,9.0,800x1340,800.0,1340.0,173.4,,2.0,,8.0,,,,512GB,Single Sim,not_available,Wi-Fi
+183,Acer one 10 T9-1212L Tablet,Acer,4.0,17990,Helio,8.0,2.0,4,64.0,7100.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,13.0,,,,1TB,Single Sim,not_available,Wi-Fi
+184,Doogee T30 Pro Tablet,Doogee,4.05,28990,Helio,8.0,2.2,8,256.0,8580.0,18.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,90.0,8.0,,20.0,,,,2TB,Dual Sim,not_available,Wi-Fi
+185,DOMO Slate S10 DC Tablet,DOMO,4.5,5499,Helio,4.0,1.3,2,32.0,3000.0,,,7.0,600x1024,600.0,1024.0,169.55,,2.0,,5.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+186,Xiaomi Redmi Pad 2,Xiaomi,4.35,15990,Snapdragon,8.0,2.4,3,64.0,8000.0,18.0,Fast,11.0,1200x2000,1200.0,2000.0,212.03,90.0,8.0,,8.0,,,,1TB,,not_available,Wi-Fi
+187,Huawei MatePad Air Tablet,Huawei,4.5,32999,Snapdragon,8.0,2.84,6,128.0,8300.0,,Fast,11.5,2800x1840,2800.0,1840.0,291.34,144.0,8.0,,13.0,,,,1TB,Single Sim,not_available,Wi-Fi
+188,Vaio TL10 Tablet,Vaio,4.4,28990,Tiger,8.0,2.0,8,128.0,7000.0,15.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+189,Honor Pad V8 Tablet,Honor,4.6,21999,Dimensity,8.0,,8,256.0,7250.0,,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,5.0,,13.0,2.0,,,Supported,Single Sim,5G,Wi-Fi
+190,ZTE Axon Pad Tablet,ZTE,4.15,39990,Snapdragon,8.0,3.2,8,256.0,10000.0,80.0,Fast,12.1,1600x2560,1600.0,2560.0,249.49,120.0,8.0,,13.0,,Android,13.0,,Dual Sim,5G,Wi-Fi
+191,Lava Magnum XL Tablet (3GB RAM + 32GB),Lava,4.1,12494,Helio,4.0,,3,32.0,5900.0,,,10.1,1280x800,1280.0,800.0,149.45,,2.0,,5.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+192,Huawei MatePad 11 2023 Tablet,Huawei,4.55,25990,Snapdragon,8.0,3.2,6,128.0,7250.0,22.5,Fast,11.0,2560x1600,2560.0,1600.0,274.44,120.0,8.0,,13.0,,,,1TB,,not_available,Wi-Fi
+193,Lenovo Legion Y900 Tablet,Lenovo,4.6,59990,Dimensity,8.0,3.05,8,128.0,12300.0,68.0,Fast,14.5,1080x2400,1080.0,2400.0,181.5,120.0,8.0,,8.0,,,,512GB,Dual Sim,5G,Wi-Fi
+194,Blackview Tab 16,Blackview,4.0,17990,(12,8.0,2.0,8,128.0,7680.0,,,11.0,1200x2000,1200.0,2000.0,212.03,,8.0,,13.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+195,Cube X Pad Tablet,Cube,4.05,24990,Dimensity,8.0,2.4,8,256.0,8040.0,25.0,Fast,10.58,1200x2000,1200.0,2000.0,220.45,120.0,5.0,,13.0,,,,1TB,Single Sim,5G,Wi-Fi
+196,itel Pad One Tablet,itel,4.1,11765,Unisoc,4.0,,4,128.0,6000.0,10.0,Fast,10.1,1280x800,1280.0,800.0,149.45,,8.0,,5.0,,,,512GB,Single Sim,not_available,Wi-Fi
+197,TCL NxtPaper 11,TCL,4.3,19990,Helio,8.0,2.0,,,8000.0,18.0,Fast,10.95,1200x2000,1200.0,2000.0,213.0,,8.0,,8.0,,Android,13.0,Supported,Single Sim,not_available,Wi-Fi
+198,Teclast P25T Tablet,Teclast,4.4,5999,Quad,4.0,,4,64.0,5000.0,,Fast,10.1,1280x800,1280.0,800.0,149.45,,2.0,,5.0,,Android,12.0,1TB,,,Wi-Fi
+199,HTC A102 Tablet,HTC,4.3,14990,Helio,8.0,,6,128.0,8400.0,,,11.0,1200x1920,1200.0,1920.0,205.83,,5.0,,13.0,2.0,,,256GB,Dual Sim,not_available,Wi-Fi
+200,Teclast M40 Pro 2023 Tablet,Teclast,4.65,12499,Tiger,8.0,2.0,6,128.0,7000.0,,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,8.0,,,,Supported,Dual Sim,not_available,Wi-Fi
+201,Chuwi HiPad XPro Tablet,Chuwi,4.2,11990,Tiger,8.0,2.0,6,128.0,7040.0,15.0,Fast,10.51,1200x1920,1200.0,1920.0,215.43,,8.0,,13.0,,,,1TB,Single Sim,not_available,Wi-Fi
+202,Nokia T21 Tablet (Wi-Fi Only),Nokia,4.6,17999,Tiger,8.0,2.0,4,64.0,8200.0,18.0,Fast,10.36,1200x2000,1200.0,2000.0,225.13,,8.0,,8.0,,,,512GB,,not_available,Wi-Fi
+203,Realme Pad Tablet (6GB RAM + 128GB),Realme,4.0,22990,Helio,8.0,2.0,6,128.0,7100.0,18.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,8.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+204,TCL NxtPaper 12 Pro,TCL,4.35,42999,Helio,8.0,2.4,8,256.0,8000.0,18.0,Fast,12.2,1440x2160,1440.0,2160.0,212.79,,8.0,8.0,13.0,,,,512GB,Single Sim,5G,Wi-Fi
+205,Realme Pad Slim Tablet,Realme,4.05,25999,Helio,8.0,2.0,6,128.0,7100.0,18.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,8.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+206,Oukitel RT3 Tablet,Oukitel,4.75,12990,Helio,8.0,2.0,4,64.0,5150.0,33.0,Fast,8.0,1280x800,1280.0,800.0,188.68,,8.0,,16.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+207,Nokia T10 Tablet (LTE+4GB+64GB),Nokia,4.75,15498,Tiger,8.0,2.0,4,64.0,5250.0,,,8.0,800x1200,800.0,1200.0,180.28,,2.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+208,Doogee T20 Tablet,Doogee,4.5,17990,Tiger,8.0,2.0,8,128.0,8500.0,18.0,Fast,10.4,1200x1920,1200.0,1920.0,217.71,,8.0,,13.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+209,Honor V8 Pro Tablet,Honor,4.6,29999,Dimensity,8.0,2.85,8,256.0,10050.0,,Fast,12.1,1600x2560,1600.0,2560.0,249.49,144.0,5.0,,13.0,,,,Supported,Single Sim,5G,Wi-Fi
+210,Oppo Pad 2 Tablet,Oppo,4.15,35990,Dimensity,8.0,3.05,8,256.0,9510.0,67.0,Fast,11.61,2000x2800,2000.0,2800.0,296.38,144.0,8.0,,13.0,,Android,13.0,Not_available,,,Wi-Fi
+211,HUAWEI MatePad C7,HUAWEI,4.2,34990,Snapdragon,8.0,2.84,6,128.0,7250.0,22.5,Fast,10.95,1600x2560,1600.0,2560.0,275.7,,8.0,,13.0,,,,1TB,Single Sim,not_available,Wi-Fi
+212,Samsung Galaxy Tab A7 Lite Kids Edition,Samsung,4.55,8999,Helio,8.0,2.4,3,32.0,5100.0,15.0,Fast,8.7,800x1340,800.0,1340.0,179.38,,2.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+213,Doogee T10,Doogee,4.75,14499,Unisoc,8.0,2.0,8,128.0,8300.0,18.0,Fast,10.1,1200x1920,1200.0,1920.0,224.17,,8.0,,13.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+214,Huawei MatePad SE 10.4,Huawei,4.4,23990,Snapdragon,8.0,2.4,3,32.0,7250.0,22.5,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,2.0,,5.0,,,,Supported,Single Sim,not_available,Wi-Fi
+215,Lenovo Tab P11 Pro 2nd Gen (Wi-Fi + 8 GB + 256 GB),Lenovo,4.35,32999,Kompanio,8.0,2.6,8,256.0,8000.0,20.0,Fast,11.2,1536x2560,1536.0,2560.0,266.56,120.0,8.0,,13.0,,,,Supported,,not_available,Wi-Fi
+216,Lenovo Yoga Paper E Ink Tablet,Lenovo,4.55,29999,Helio,8.0,2.05,8,128.0,8500.0,,,11.0,2000x1200,2000.0,1200.0,212.03,,8.0,,13.0,,,,512GB,,not_available,Wi-Fi
+217,Apple iPad Pro 12.9 2022 Tablet (512GB),Apple,4.55,147090,Apple,8.0,,8,512.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+218,Apple iPad Pro 11 2022 Tablet (Wi-Fi + 512GB),Apple,4.0,108532,Apple,8.0,,8,512.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+219,Apple iPad Pro 11 2022 Tablet (512GB),Apple,4.15,118390,Apple,8.0,,8,512.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+220,Apple iPad Pro 11 2022 Tablet (2TB),Apple,4.5,200673,Apple,8.0,,16,2000.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+221,Apple iPad Pro 11 2022 Tablet (256GB),Apple,4.55,103900,Apple,8.0,,8,256.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+222,Apple iPad Pro 12.9 2022 Tablet (1TB),Apple,4.4,183990,Apple,8.0,,16,1000.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+223,Apple iPad Pro 12.9 2022 Tablet (2TB),Apple,4.65,230740,Apple,8.0,,16,2000.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+224,Apple iPad Pro 12.9 2022 Tablet (Wi-Fi + 2TB),Apple,4.15,216191,Apple,8.0,,16,2000.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+225,Apple iPad Pro 11 2022 Tablet (Wi-Fi + 1TB),Apple,4.55,147328,Apple,8.0,,16,1000.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+226,Apple iPad Pro 12.9 2022 Tablet (Wi-Fi + 256GB),Apple,4.3,118939,Apple,8.0,,8,256.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+227,Apple iPad Pro 12.9 2022 Tablet (Wi-Fi + 128GB),Apple,4.6,105290,Apple,8.0,,8,128.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+228,Apple iPad Pro 12.9 2022 Tablet (256GB),Apple,4.2,128590,Apple,8.0,,8,256.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+229,Apple iPad Pro 11 2022 Tablet,Apple,4.0,90390,Apple,8.0,,8,128.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+230,Apple iPad Pro 12.9 2022 Tablet (Wi-Fi + 512GB),Apple,4.6,133090,Apple,8.0,,8,512.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+231,Apple iPad Pro 11 2022 Tablet (Wi-Fi + 256GB),Apple,4.75,88990,Apple,8.0,,8,256.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+232,Apple iPad Pro 11 2022 Tablet (1TB),Apple,4.2,161877,Apple,8.0,,16,1000.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,Single Sim,5G,Wi-Fi
+233,Samsung Galaxy Tab Active Pro,Samsung,4.25,122846,Snapdragon,8.0,2.0,4,64.0,7600.0,15.0,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,8.0,,13.0,,,,Supported,Single Sim,not_available,Wi-Fi
+234,Apple iPad Pro 10th Gen Tablet,Apple,4.05,106990,Apple,8.0,,8,256.0,7938.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iOS,16.0,,Single Sim,5G,Wi-Fi
+235,Lenovo Tab M10 HD 2nd Gen Tablet (Wi-Fi + 3GB + 32GB),Lenovo,4.4,9999,Helio,8.0,2.0,6,32.0,5000.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,256GB,,not_available,Wi-Fi
+236,Nokia T10 Tablet (Wi-Fi+4GB+64GB),Nokia,4.45,10049,Tiger,8.0,2.0,4,64.0,5250.0,,,8.0,800x1280,800.0,1280.0,188.68,,2.0,,8.0,,,,Supported,,not_available,Wi-Fi
+237,Oukitel RT2 Tablet,Oukitel,4.3,18990,Helio,8.0,2.0,8,128.0,20000.0,33.0,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,16.0,,16.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+238,Lenovo M10 Plus 3rd Gen Tablet (LTE),Lenovo,4.7,18999,Snapdragon,8.0,2.4,6,128.0,7700.0,,Fast,10.61,2000x1200,2000.0,1200.0,219.83,,8.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+239,Honor Pad 8 (6GB RAM + 128GB),Honor,4.5,18494,Snapdragon,8.0,2.4,6,128.0,7250.0,22.5,Fast,12.0,2000x1200,2000.0,1200.0,194.37,,5.0,,5.0,,,,512GB,,not_available,Wi-Fi
+240,Lenovo Tab M10 FHD 3rd Gen Tablet (Wi-Fi Only),Lenovo,4.45,10999,Tiger,8.0,1.8,4,64.0,5100.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,8.0,,,,128GB,,not_available,Wi-Fi
+241,Google Pixel Tablet Pro,Google,4.2,45990,,,,8,128.0,7100.0,,Fast,12.1,1200x2000,1200.0,2000.0,192.76,120.0,8.0,,12.0,12.0,,,,,not_available,Wi-Fi
+242,iKall N15 4G Tablet (4GB RAM + 64GB),iKall,4.45,10990,Octa,8.0,2.0,4,64.0,6000.0,,,10.0,1280x800,1280.0,800.0,150.94,,8.0,,13.0,,,,128GB,Single Sim,not_available,Wi-Fi
+243,Lenovo Tab P11 Pro (2nd Gen),Lenovo,4.25,37990,Kompanio,8.0,2.6,4,128.0,7700.0,20.0,Fast,11.2,1200x2000,1200.0,2000.0,208.25,120.0,8.0,,13.0,,,,1TB,Single Sim,not_available,Wi-Fi
+244,Blackview Tab 13,Blackview,4.1,13990,Helio,8.0,2.0,6,128.0,7280.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,8.0,,13.0,0.3,,,1TB,Dual Sim,not_available,Wi-Fi
+245,Lenovo Xiaoxin Pad Pro 2022,Lenovo,4.3,45990,Snapdragon,8.0,3.2,8,128.0,8200.0,68.0,Fast,11.2,2560x1536,2560.0,1536.0,266.56,120.0,8.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+246,Xiaomi Mi Pad 5 Pro 12.4 inch Tablet,Xiaomi,4.3,35990,Snapdragon,8.0,3.2,6,128.0,10000.0,67.0,Fast,12.4,1600x2560,1600.0,2560.0,243.46,120.0,8.0,,50.0,2.0,Android,12.0,,Single Sim,5G,Wi-Fi
+247,Teclast P30 Air Tablet,Teclast,4.15,7990,Helio,8.0,2.0,4,64.0,6000.0,,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+248,Xiaomi Redmi Tablet,Xiaomi,4.25,29990,Snapdragon,8.0,,6,128.0,7800.0,67.0,Fast,10.1,1200x2000,1200.0,2000.0,230.93,,8.0,,13.0,,Android,12.0,,Single Sim,5G,Wi-Fi
+249,Samsung Galaxy Tab A7 2022,Samsung,4.65,19999,Tiger,8.0,2.0,3,32.0,7040.0,15.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+250,Realme Pad X Tablet (Wi-Fi Only),Realme,4.0,17999,Snapdragon,8.0,2.2,4,64.0,8340.0,33.0,Fast,10.95,1200x2000,1200.0,2000.0,213.0,,8.0,,13.0,,,,512GB,,not_available,Wi-Fi
+251,Honor Tablet 8,Honor,4.4,15499,Snapdragon,8.0,2.4,4,128.0,7250.0,22.5,Fast,12.0,2000x1200,2000.0,1200.0,194.37,,5.0,,5.0,,,,512GB,,not_available,Wi-Fi
+252,Honor Pad 8,Honor,4.2,17999,Snapdragon,8.0,2.4,4,128.0,7250.0,22.5,Fast,12.0,2000x1200,2000.0,1200.0,194.37,,5.0,,5.0,,,,512GB,,not_available,Wi-Fi
+253,Nokia T10 Tablet (Wi-Fi+32GB),Nokia,4.0,11799,Tiger,8.0,2.0,3,32.0,5250.0,,,8.0,800x1280,800.0,1280.0,188.68,,2.0,,8.0,,,,Supported,,not_available,Wi-Fi
+254,Nokia T10 Tablet,Nokia,4.45,10749,Tiger,8.0,2.0,3,32.0,5250.0,,,8.0,800x1200,800.0,1200.0,180.28,,2.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+255,Nothing Tab 1,Nothing,4.0,26990,Octa,8.0,,6,128.0,7000.0,45.0,Fast,10.1,1600x2560,1600.0,2560.0,298.9,120.0,8.0,,12.0,,,,512GB,Dual Sim,5G,Wi-Fi
+256,Amazon Fire 7 2022 Tablet,Amazon,4.6,8990,Quad,4.0,2.0,2,32.0,,,,7.0,1024x600,1024.0,600.0,169.55,,2.0,,2.0,,,,1TB,,,Wi-Fi
+257,DOMO Slate X17 Tablet,DOMO,4.2,4999,Allwinner,4.0,1.6,2,32.0,3000.0,,,7.0,480x800,480.0,800.0,133.28,,2.0,,5.0,,,,64GB,No Sim Supported,not_available,Wi-Fi
+258,Teclast T50 Tablet,Teclast,4.35,19990,Tiger,8.0,2.0,8,128.0,7500.0,18.0,Fast,11.0,2000x1200,2000.0,1200.0,212.03,,8.0,,20.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+259,Samsung Galaxy Tab Active 4 Pro,Samsung,4.6,49990,Snapdragon,8.0,2.4,4,64.0,7600.0,,,10.1,1200x1920,1200.0,1920.0,224.17,,8.0,,13.0,,,,1.02TB,Single Sim,5G,Wi-Fi
+260,Lenovo Tab P12 Pro (8GB RAM + 256GB),Lenovo,4.15,69999,Snapdragon,8.0,3.2,8,256.0,10200.0,45.0,Fast,12.6,1600x2560,1600.0,2560.0,239.59,120.0,8.0,,13.0,5.0,,,1TB,Single Sim,5G,Wi-Fi
+261,Lenovo Xiaoxin Pad 2022,Lenovo,4.2,39999,Snapdragon,8.0,2.4,6,64.0,7000.0,,Fast,10.6,2000x1200,2000.0,1200.0,220.04,,8.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+262,Huawei MatePad 10.4 2022 Tablet,Huawei,4.3,27990,Kirin,8.0,2.36,4,64.0,7250.0,22.5,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,8.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+263,Samsung Galaxy Tab S6 Lite 2022 Tablet,Samsung,4.65,25999,Snapdragon,8.0,2.3,4,64.0,7040.0,15.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+264,Samsung Galaxy Tab S6 Lite 2022 Tablet (128GB),Samsung,4.2,33990,Snapdragon,8.0,2.3,4,128.0,7040.0,15.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+265,Realme Pad Mini Tablet (Wi-Fi + 64GB),Realme,4.15,14494,Tiger,8.0,2.0,4,64.0,6400.0,18.0,Fast,8.68,800x1340,800.0,1340.0,179.8,,5.0,,8.0,,,,1TB,,not_available,Wi-Fi
+266,Realme Pad Mini Tablet (Wi-Fi + 32GB),Realme,4.2,9999,Tiger,8.0,2.0,3,32.0,6400.0,18.0,Fast,8.68,800x1340,800.0,1340.0,179.8,,5.0,,8.0,,,,1TB,,not_available,Wi-Fi
+267,iKall N7 Pro Tablet (Wi-Fi Only),iKall,4.0,3479,,,,2,16.0,3000.0,,,7.0,580x980,580.0,980.0,162.68,,0.3,,2.0,,Android,6.0,Supported,,,Wi-Fi
+268,Realme Pad Mini Tablet (4GB RAM + 64GB),Realme,4.45,13999,Tiger,8.0,2.0,4,64.0,6400.0,18.0,Fast,8.68,800x1340,800.0,1340.0,179.8,,5.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+269,Apple iPad Air 5th Gen 5G Tablet (256GB),Apple,4.6,78699,Apple,8.0,,8,256.0,7729.73,20.0,Fast,10.9,1640x2360,1640.0,2360.0,263.66,,12.0,,12.0,,iOS,15.0,,Single Sim,5G,Wi-Fi
+270,Swipe Slate 3 Tablet (Wi-Fi + 32GB),Swipe,4.55,8999,Tiger,4.0,2.0,3,32.0,6000.0,,,10.1,1200x800,1200.0,800.0,142.79,,5.0,,8.0,,,,128GB,,not_available,Wi-Fi
+271,Swipe Slate 3 Tablet (Wi-Fi + 64GB),Swipe,4.1,10999,Tiger,4.0,2.0,4,64.0,6000.0,,,10.1,1200x800,1200.0,800.0,142.79,,5.0,,8.0,,,,128GB,,not_available,Wi-Fi
+272,Swipe Slate 3 Tablet,Swipe,4.45,9999,Tiger,4.0,2.0,3,32.0,6000.0,,,10.1,1200x800,1200.0,800.0,142.79,,5.0,,8.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+273,Samsung Galaxy Tab S8 Ultra Tablet (Wi-Fi Only),Samsung,4.25,106999,Snapdragon,8.0,3.0,12,256.0,11200.0,45.0,Fast,14.6,1848x2960,1848.0,2960.0,239.01,120.0,12.0,12.0,13.0,6.0,,,1TB,,not_available,Wi-Fi
+274,Huawei MatePad T8 LTE Tablet,Huawei,4.55,6999,Helio,8.0,1.5,2,32.0,5100.0,,,8.0,1280x800,1280.0,800.0,188.68,,2.0,,5.0,,,,512GB,Single Sim,not_available,Wi-Fi
+275,Wishtel IRA T1020 4G Tablet,Wishtel,4.35,20199,Octa,8.0,2.0,8,128.0,8000.0,,,10.4,2000x1200,2000.0,1200.0,224.27,,5.0,,8.0,,,,256GB,Dual Sim,not_available,Wi-Fi
+276,Swipe X1 Tablet (6GB RAM + 128GB),Swipe,4.65,15999,Helio,8.0,2.3,6,128.0,5000.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,5.0,,,,Supported,Dual Sim,not_available,Wi-Fi
+277,Swipe Strike 8 Tablet,Swipe,4.5,6999,Helio,4.0,2.0,3,32.0,5000.0,,Fast,8.0,800x1280,800.0,1280.0,188.68,,5.0,,8.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+278,Lenovo Tab M10 3rd Gen Tablet,Lenovo,4.35,15499,Tiger,8.0,1.8,4,64.0,5100.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,8.0,,,,128GB,Single Sim,not_available,Wi-Fi
+279,Samsung Galaxy Tab A8 10.5 2021 Tablet (Wi-Fi Only),Samsung,4.1,12999,Tiger,8.0,2.0,3,32.0,7040.0,15.0,Fast,10.5,1200x1920,1200.0,1920.0,215.63,,5.0,,8.0,,,,1TB,,not_available,Wi-Fi
+280,Samsung Galaxy Tab A8 10.5 2021 Tablet,Samsung,4.4,15999,Tiger,8.0,2.0,3,32.0,7040.0,15.0,Fast,10.5,1200x1920,1200.0,1920.0,215.63,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+281,Wishtel IRA Duo Plus Tablet,Wishtel,4.0,17990,,,,4,64.0,,,,10.0,1920x1200,1920.0,1200.0,226.42,,2.0,,8.0,,Android,11.0,Not_available,Dual Sim,not_available,Wi-Fi
+282,DOMO Slate S3 Tablet,DOMO,4.6,3600,Helio,4.0,1.3,1,8.0,3000.0,,,7.0,600x1024,600.0,1024.0,169.55,,2.0,,5.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+283,Nokia T20 Tablet (Wi-Fi+64GB),Nokia,4.2,18899,Tiger,8.0,1.8,4,64.0,8200.0,,,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,512GB,,not_available,Wi-Fi
+284,Nokia T20 Tablet (Wi-Fi+32GB),Nokia,4.2,15119,Tiger,8.0,1.8,3,32.0,8200.0,,,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,512GB,,not_available,Wi-Fi
+285,Lenovo Tab M7 3rd Gen Tablet (Wi-Fi+32GB),Lenovo,4.5,6450,Helio,8.0,2.0,2,32.0,3750.0,,,7.0,600x1024,600.0,1024.0,169.55,,2.0,,5.0,,,,128GB,,not_available,Wi-Fi
+286,Lenovo Tab M8 HD 2nd Gen Tablet,Lenovo,4.05,6800,Helio,4.0,2.0,2,32.0,5000.0,,,8.0,1280x800,1280.0,800.0,188.68,,2.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+287,Lenovo Tab K10 FHD 4G Tablet (4GB RAM + 64GB),Lenovo,4.1,13999,Helio,8.0,2.0,4,64.0,7500.0,,,10.3,1920x1200,1920.0,1200.0,219.82,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+288,Lenovo Tab K10 FHD Tablet (Wi-Fi + 64GB),Lenovo,4.75,11249,Helio,8.0,2.0,4,64.0,7500.0,,,10.3,1920x1200,1920.0,1200.0,219.82,,5.0,,8.0,,,,256GB,,not_available,Wi-Fi
+289,Lenovo Tab K10 FHD Tablet (Wi-Fi + 32GB),Lenovo,4.4,9899,Helio,8.0,2.0,3,32.0,7500.0,,,10.3,1920x1200,1920.0,1200.0,219.82,,5.0,,8.0,,,,256GB,,not_available,Wi-Fi
+290,Lenovo Tab M8 FHD 2nd Gen Tablet (Wi-Fi + 32GB),Lenovo,4.65,11099,Helio,8.0,2.3,3,32.0,5100.0,,,8.0,1920x1200,1920.0,1200.0,283.02,,5.0,,13.0,,,,Supported,,not_available,Wi-Fi
+291,Samsung Galaxy Tab A8 2021,Samsung,4.6,20999,Exynos,8.0,1.8,4,64.0,5100.0,,,8.4,1200x1920,1200.0,1920.0,269.54,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+292,Apple iPad Mini 6th Gen 2021 5G Tablet,Apple,4.45,59067,Bionic,6.0,,,64.0,,,,8.3,2266x1488,2266.0,1488.0,326.61,,12.0,,12.0,,iOS,15.0,Not_available,Single Sim,5G,Wi-Fi
+293,Apple iPad Mini 6th Gen 2021 5G Tablet (256GB),Apple,4.05,72646,Bionic,6.0,,,256.0,,,,8.3,2266x1488,2266.0,1488.0,326.61,,12.0,,12.0,,iOS,15.0,Not_available,Single Sim,5G,Wi-Fi
+294,Apple iPad Mini 6th Gen 2021 Tablet (Wi-Fi+256GB),Apple,4.25,62947,Bionic,6.0,,,256.0,,,,8.3,2266x1488,2266.0,1488.0,326.61,,12.0,,12.0,,iOS,15.0,Not_available,,,Wi-Fi
+295,Apple iPad 9th Gen 10.2 2021 Tablet (256GB),Apple,4.75,50990,Bionic,6.0,2.65,,256.0,,,,10.2,2160x1620,2160.0,1620.0,264.71,,12.0,,8.0,,iOS,15.0,Not_available,Single Sim,not_available,Wi-Fi
+296,Apple iPad 9th Gen 10.2 2021 Tablet (Wi-Fi+256GB),Apple,4.7,39990,Bionic,6.0,2.65,,256.0,,,,10.2,2160x1620,2160.0,1620.0,264.71,,12.0,,8.0,,iOS,15.0,Not_available,,not_available,Wi-Fi
+297,Realme Pad Tablet (Wi-Fi Only),Realme,4.6,12999,Helio,8.0,2.0,3,32.0,7100.0,18.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,8.0,,8.0,,,,1TB,,not_available,Wi-Fi
+298,Realme Pad Tablet (4GB RAM + 64GB),Realme,4.05,17999,Helio,8.0,2.0,4,64.0,7100.0,18.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,8.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+299,Lenovo Tab P11 5G,Lenovo,4.7,30999,Snapdragon,8.0,2.2,6,128.0,7500.0,,Fast,11.0,1200x2000,1200.0,2000.0,212.03,,8.0,,13.0,,,,1TB,Single Sim,5G,Wi-Fi
+300,iKall N17 4G Tablet,iKall,4.65,6489,Octa,8.0,1.6,3,32.0,4000.0,,,8.0,800x1280,800.0,1280.0,188.68,,5.0,,8.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+301,Acer One T4-82L Tablet,Acer,4.1,9999,Helio,4.0,2.0,2,32.0,5100.0,,,8.0,1280x800,1280.0,800.0,188.68,,2.0,,8.0,,,,128GB,Single Sim,not_available,Wi-Fi
+302,Nokia T20 4G Tablet,Nokia,3.95,17685,Tiger,8.0,1.8,4,64.0,8200.0,,,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,512GB,Single Sim,not_available,Wi-Fi
+303,Lenovo Ideapad Duet 3 Tablet (Wi-Fi Only),Lenovo,4.05,19999,Celeron,2.0,1.1,4,128.0,6000.0,,,10.3,1920x1200,1920.0,1200.0,219.82,,2.0,,5.0,,Windows,,256GB,,,Wi-Fi
+304,Lenovo Tab Yoga 11 4G Tablet,Lenovo,4.25,17999,Helio,8.0,2.05,4,128.0,7500.0,,,11.0,2000x1200,2000.0,1200.0,212.03,,8.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+305,Lenovo Tab P11 Plus,Lenovo,4.25,23998,Helio,8.0,2.05,6,128.0,7700.0,20.0,Fast,11.0,1200x2000,1200.0,2000.0,212.03,,8.0,,13.0,,,,256GB,Single Sim,not_available,Wi-Fi
+306,Realme Pad Tablet,Realme,4.05,13497,Helio,8.0,2.0,3,32.0,7100.0,18.0,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,8.0,,8.0,,,,1TB,Dual Sim,not_available,Wi-Fi
+307,Samsung Galaxy Tab A7 Lite (Wi-Fi Only),Samsung,4.6,9799,Helio,8.0,2.4,3,32.0,5100.0,15.0,Fast,8.7,800x1340,800.0,1340.0,179.38,,2.0,,8.0,,,,1TB,,not_available,Wi-Fi
+308,Lenovo Tab M10 HD 2nd Gen Tablet (2GB RAM + 32GB),Lenovo,4.75,9990,Helio,8.0,2.0,2,32.0,5000.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+309,Lenovo Tab M10 5G 2022,Lenovo,4.4,24999,Snapdragon,8.0,2.0,6,128.0,5000.0,,,10.3,1920x1200,1920.0,1200.0,219.82,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+310,Apple iPad Pro 11 2021 Tablet (Wi-Fi + 2TB),Apple,4.75,165756,Apple,8.0,,16,2000.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iOS,14.5,,,not_available,Wi-Fi
+311,Apple iPad Pro 12.9 2021 Tablet (Wi-Fi + 1TB),Apple,4.65,157997,Apple,8.0,,16,1000.0,,,,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iOS,14.5,Not_available,,not_available,Wi-Fi
+312,Lenovo Tab M10 HD 2nd Gen Tablet (Wi-Fi + 32GB),Lenovo,4.55,9499,Helio,8.0,2.0,2,32.0,5000.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,256GB,,not_available,Wi-Fi
+313,Apple iPad Pro 11 2021 Tablet (1TB),Apple,4.2,139999,Apple,8.0,,16,1000.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iOS,14.5,,Single Sim,5G,Wi-Fi
+314,Lenovo Tab M10 FHD Plus 2nd Gen Tablet (2GB RAM + 32GB),Lenovo,4.65,8990,Helio,8.0,2.0,2,32.0,5000.0,,,10.3,1920x1200,1920.0,1200.0,219.82,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+315,Apple iPad Pro 12.9 2021 Tablet (Wi-Fi + 2TB),Apple,4.3,192914,Apple,8.0,,16,2000.0,,,,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iOS,14.5,Not_available,,not_available,Wi-Fi
+316,Apple iPad Pro 11 2021 Tablet (2TB),Apple,4.65,179335,Apple,8.0,,16,2000.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iOS,14.5,,Single Sim,5G,Wi-Fi
+317,DOMO Slate SS4 Tablet,DOMO,4.0,4739,,,,1,32.0,3000.0,,,7.0,1024x600,1024.0,600.0,169.55,,2.0,,5.0,,Android,6.0,,Dual Sim,not_available,Wi-Fi
+318,Lava Aura,Lava,4.4,6799,Quad,4.0,2.0,2,32.0,5100.0,,,8.0,800x1280,800.0,1280.0,188.68,,5.0,,8.0,,,,256GB,Dual Sim,not_available,Wi-Fi
+319,Lava Ivory Tablet,Lava,4.05,4998,Helio,4.0,1.3,2,16.0,4100.0,,,7.0,1280x800,1280.0,800.0,215.63,,2.0,,5.0,,Android,10.0,256GB,,,Wi-Fi
+320,Huawei MatePad Pro 2 5G,Huawei,4.0,49990,,,,8,128.0,7250.0,40.0,Fast,12.6,2560x1600,2560.0,1600.0,239.59,120.0,8.0,,13.0,,,,256GB,Single Sim,5G,Wi-Fi
+321,Samsung Galaxy Tab A7 Lite,Samsung,4.5,11990,Helio,8.0,2.4,3,32.0,5100.0,15.0,Fast,8.7,800x1340,800.0,1340.0,179.38,,2.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+322,Samsung Galaxy Tab S7 Lite Tablet,Samsung,4.55,54999,Exynos,8.0,2.4,6,128.0,8000.0,45.0,Fast,11.0,1600x2560,1600.0,2560.0,274.44,120.0,8.0,,13.0,5.0,,,1TB,Single Sim,5G,Wi-Fi
+323,Lenovo Tab M10 HD 2nd Gen Tablet,Lenovo,4.7,14990,Helio,8.0,2.0,4,64.0,5000.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+324,Apple iPad Air 4 2020 Tablet,Apple,4.65,64886,Apple,6.0,,,64.0,,,,10.9,1640x2360,1640.0,2360.0,263.66,,7.0,,12.0,,iPadOS,14.0,Not_available,Single Sim,not_available,Wi-Fi
+325,Lenovo Ideapad Duet Chromebook (Wi-Fi Only),Lenovo,4.5,19999,Helio,8.0,1.99,4,128.0,7000.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,2.0,,8.0,,,,,,not_available,Wi-Fi
+326,Lenovo Tab M8 FHD (2nd Gen) Tablet (2GB RAM + 32GB),Lenovo,4.45,6900,Helio,8.0,2.0,2,32.0,5100.0,,,8.0,1920x1200,1920.0,1200.0,283.02,,5.0,,,,,,,Single Sim,not_available,Wi-Fi
+327,Lenovo Tab M8 FHD (2nd Gen) Tablet,Lenovo,4.5,14494,Helio,8.0,2.0,3,32.0,5100.0,,,8.0,1920x1200,1920.0,1200.0,283.02,,5.0,,,,,,,Single Sim,not_available,Wi-Fi
+328,Apple iPad 8th Gen 10.2 2020 Tablet (WiFi+32GB),Apple,4.7,29475,Apple,6.0,2.5,3,32.0,,,,10.2,1620x2160,1620.0,2160.0,264.71,,1.2,,8.0,,iPadOS,14.0,Not_available,,not_available,Wi-Fi
+329,Lenovo Tab M10 HD Tablet (3GB RAM + 32GB),Lenovo,4.5,9000,Snapdragon,8.0,1.8,3,32.0,4850.0,,,10.1,1280x800,1280.0,800.0,149.45,,2.0,,5.0,,,,256GB,Single Sim,not_available,Wi-Fi
+330,Acer One 10 T4-129L Tablet,Acer,4.15,11990,Helio,4.0,1.5,3,32.0,5800.0,,,10.0,800x1280,800.0,1280.0,150.94,,,,5.0,,,,Supported,Single Sim,not_available,Wi-Fi
+331,Lenovo Tab M10 HD Tablet (2GB RAM + 16GB),Lenovo,4.65,6897,Snapdragon,8.0,1.8,2,16.0,4850.0,,,10.1,1280x800,1280.0,800.0,149.45,,2.0,,5.0,,,,256GB,Single Sim,not_available,Wi-Fi
+332,Lenovo Tab M7 (2nd Gen) Tablet,Lenovo,4.25,6900,Helio,4.0,1.3,2,32.0,3500.0,,,7.0,1024x600,1024.0,600.0,169.55,,2.0,,2.0,,,,128GB,Single Sim,not_available,Wi-Fi
+333,Lenovo Tab P11 Pro,Lenovo,4.4,42999,Snapdragon,8.0,2.2,6,128.0,8600.0,,,11.5,2560x1600,2560.0,1600.0,262.51,,8.0,8.0,13.0,5.0,,,256GB,Single Sim,not_available,Wi-Fi
+334,Swipe Slate 2 Tablet,Swipe,4.1,8899,MT8765B,4.0,1.28,2,16.0,5000.0,,,10.1,1280x720,1280.0,720.0,145.41,,5.0,,8.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+335,Samsung Galaxy Tab A7 2020,Samsung,4.45,19990,Snapdragon,8.0,2.0,3,32.0,7040.0,,Fast,10.4,1200x2000,1200.0,2000.0,224.27,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+336,Apple iPad Pro 11 2020 Tablet (1TB),Apple,4.5,120169,A12Z,8.0,2.5,6,1000.0,,,,11.0,1668x2388,1668.0,2388.0,264.81,120.0,7.0,,12.0,10.0,iOS,14.0,Not_available,Single Sim,not_available,Wi-Fi
+337,iBall Slide Skye 03 Tablet,iBall,4.45,4500,Quad,4.0,1.3,1,8.0,2800.0,,,7.0,600x1024,600.0,1024.0,169.55,,0.3,,2.0,,,,64GB,Dual Sim,not_available,Wi-Fi
+338,Swipe Strike Tablet,Swipe,4.05,5999,Helio,4.0,1.28,3,32.0,3000.0,,,7.0,600x1024,600.0,1024.0,169.55,,2.0,,5.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+339,Lenovo Tab V7 Tablet (2GB RAM + 16GB),Lenovo,4.65,7369,Snapdragon,8.0,1.8,2,16.0,5180.0,,,6.9,1080x2160,1080.0,2160.0,349.99,,5.0,,13.0,,,,256GB,Dual Sim,not_available,Wi-Fi
+340,iKall N5 Plus Tablet,iKall,4.5,4499,Quad,4.0,1.0,2,16.0,3000.0,,,7.0,1024x600,1024.0,600.0,169.55,,2.0,,5.0,,,,Supported,Dual Sim,not_available,Wi-Fi
+341,DOMO Slate SL36 Tablet,DOMO,4.65,6999,Cortex,4.0,1.5,2,32.0,5020.0,,,10.1,1280x800,1280.0,800.0,149.45,,5.0,,8.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+342,iBall iTAB BizniZ Tablet,iBall,4.5,9990,Cortex,8.0,1.2,2,32.0,7000.0,,,10.1,1200x1920,1200.0,1920.0,224.17,,8.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
+343,iBall iTAB BizniZ Mini Tablet,iBall,4.35,6499,Cortex,8.0,1.6,2,32.0,4000.0,,,8.0,1200x1920,1200.0,1920.0,283.02,,5.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+344,iBall Cleo S9 Tablet,iBall,4.2,9000,Quad,4.0,1.4,2,16.0,3500.0,,,7.0,600x1024,600.0,1024.0,169.55,,2.0,,5.0,,,,64GB,Dual Sim,not_available,Wi-Fi
+345,iBall iTAB Movie Z Pro,iBall,4.4,14999,SC9863A,4.0,1.6,4,64.0,7000.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,8.0,,13.0,,,,256GB,Single Sim,not_available,Wi-Fi
+346,Lenovo Tab M10 (HD),Lenovo,4.5,8899,Snapdragon,8.0,1.8,2,32.0,4850.0,,,10.1,1280x800,1280.0,800.0,149.45,,2.0,,5.0,,,,256GB,Single Sim,not_available,Wi-Fi
+347,iKall N7 New Tablet (Wi-Fi Only),iKall,4.1,3489,Quad,4.0,1.3,2,16.0,3000.0,,,7.0,1024x600,1024.0,600.0,169.55,,0.3,,2.0,,Android,6.0,32GB,,,Wi-Fi
+348,iKall N9 Tablet (Wi-Fi+3G+16GB),iKall,4.55,3950,Dual,2.0,1.3,2,16.0,3000.0,,,7.0,1024x600,1024.0,600.0,169.55,,2.0,,5.0,,,,32GB,Dual Sim,not_available,Wi-Fi
+349,Apple iPad 10.2 Tablet,Apple,4.05,38643,Fusion,4.0,2.34,3,32.0,8827.0,,,10.2,1620x2160,1620.0,2160.0,264.71,,1.2,,8.0,,iOS,13.1,,Single Sim,not_available,Wi-Fi
+350,Lenovo Tab M8 Tablet (Wi-Fi + 32GB),Lenovo,4.45,6999,Helio,4.0,2.0,2,32.0,5000.0,,,8.0,800x1280,800.0,1280.0,188.68,,2.0,,8.0,,,,128GB,,not_available,Wi-Fi
+351,Apple iPad Mini 2019 (WiFi+4G+64GB),Apple,4.05,45248,Apple,6.0,2.5,,64.0,5124.0,,,7.9,1536x2048,1536.0,2048.0,324.05,,7.0,,8.0,,iOS,12.1,,Single Sim,not_available,Wi-Fi
+352,Samsung Galaxy Tab A 10.1 (WiFi + 32GB),Samsung,4.7,12999,Exynos,8.0,1.8,2,32.0,6150.0,45.0,Fast,10.1,1200x1920,1200.0,1920.0,224.17,,5.0,,8.0,,,,32GB,,not_available,Wi-Fi
+353,Samsung Galaxy Tab A 8.0 (2019),Samsung,4.05,9999,Exynos,8.0,1.8,2,32.0,5100.0,,,8.0,1280x800,1280.0,800.0,188.68,,5.0,,8.0,,,,512GB,Single Sim,not_available,Wi-Fi
+354,iKall N10 Tablet,iKall,4.55,7999,SC9832,4.0,1.2,2,16.0,6000.0,,,10.1,1280x800,1280.0,800.0,149.45,,2.0,,5.0,,,,32GB,Dual Sim,not_available,Wi-Fi
+355,Lenovo Tab 4 10 Plus Tablet (WiFi+4G+16GB),Lenovo,4.25,23999,Snapdragon,8.0,2.0,3,16.0,7000.0,,,10.1,1200x1920,1200.0,1920.0,224.17,,5.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+356,iKall N1 Tablet (8GB),iKall,4.0,4999,Quad,4.0,1.1,1,8.0,4000.0,,,8.0,1280x800,1280.0,800.0,188.68,,2.0,,5.0,,,,32GB,Dual Sim,not_available,Wi-Fi
+357,iKall N5 Tablet,iKall,4.1,4094,MTK8735,4.0,1.0,2,16.0,3000.0,,,7.0,1024x600,1024.0,600.0,169.55,,2.0,,5.0,,,,32GB,Dual Sim,not_available,Wi-Fi
+358,iKall N2 Tablet,iKall,4.25,3499,Single,1.0,1.2,0.512,4.0,2800.0,,,7.0,1024x600,1024.0,600.0,169.55,,0.3,,2.0,,,,32GB,Dual Sim,not_available,Wi-Fi
+359,Samsung Galaxy J Max Tablet,Samsung,4.4,6750,Spreadtrum,4.0,1.5,5,8.0,4000.0,,,7.0,1280x800,1280.0,800.0,215.63,,2.0,,8.0,,,,256GB,Dual Sim,not_available,Wi-Fi
+360,TCL Tab 10L Gen 2,TCL,4.0,9990,Helio,4.0,1.8,3,32.0,6000.0,,Fast,10.1,800x1280,800.0,1280.0,149.45,,2.0,,2.0,,,,Supported,Single Sim,not_available,Wi-Fi
+361,Acer One 8 Tablet 2023,Acer,4.0,12999,Helio,4.0,,3,32.0,5100.0,,,8.7,1340x800,1340.0,800.0,179.38,,2.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+362,Wishtel IRA T1030 4G Tablet,Wishtel,4.0,16383,Octa,8.0,2.0,4,64.0,8000.0,,,10.4,2000x1200,2000.0,1200.0,224.27,,8.0,,13.0,,,,256GB,Dual Sim,not_available,Wi-Fi
+363,AGM Pad P1 Tablet,AGM,4.0,16499,Helio,8.0,2.2,8,256.0,7000.0,18.0,Fast,10.36,1200x2000,1200.0,2000.0,225.13,,5.0,,8.0,,,,2TB,Dual Sim,not_available,Wi-Fi
+364,iKall N13 Plus,iKall,4.1,7499,Quad,4.0,1.3,3,32.0,4500.0,,,8.0,480x640,480.0,640.0,100.0,,2.0,,5.0,,,,32GB,Single Sim,not_available,Wi-Fi
+365,HTC A103 Plus Tablet,HTC,4.0,18990,Helio,8.0,2.0,4,64.0,6000.0,10.0,Fast,10.1,1200x1920,1200.0,1920.0,224.17,,5.0,,5.0,,,,256GB,Dual Sim,not_available,Wi-Fi
+366,Teclast T40S Tablet,Teclast,4.25,14990,Helio,8.0,,8,128.0,6000.0,,Fast,10.4,2000x1200,2000.0,1200.0,224.27,,5.0,,13.0,,Android,12.0,1TB,,,Wi-Fi
+367,iKall N1 New Tablet,iKall,4.25,3299,Dual,2.0,1.2,0.512,4.0,3000.0,,,7.0,600x1024,600.0,1024.0,169.55,,0.3,,2.0,,,,32GB,Dual Sim,not_available,Wi-Fi
+368,iKall N2 Pro New Tablet,iKall,4.6,3199,,,,0.512,4.0,2800.0,,,7.0,1024x600,1024.0,600.0,169.55,,0.3,,2.0,,,,,Dual Sim,not_available,Wi-Fi
+369,Doogee R10 Tablet,Doogee,4.3,19990,Helio,8.0,2.2,8,128.0,10800.0,18.0,Fast,10.36,1536x2048,1536.0,2048.0,247.1,,16.0,,20.0,,,,2TB,Dual Sim,not_available,Wi-Fi
+370,TCL Tab 11 Tablet,TCL,4.3,15499,Helio,8.0,2.0,4,64.0,8000.0,18.0,Fast,10.95,1200x2000,1200.0,2000.0,213.0,,8.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+371,iKall N16 4G Tablet,iKall,4.0,7199,Octa,8.0,1.6,3,32.0,4000.0,,,8.0,,,,,,5.0,,8.0,,Android,11.0,128GB,,,Wi-Fi
+372,iKall N19 4G 2022 Tablet,iKall,4.45,7482,Octa,8.0,1.6,3,32.0,4000.0,,,8.0,,,,,,5.0,,8.0,,,,128GB,Single Sim,not_available,Wi-Fi
+373,Huawei MatePad C5E,Huawei,4.5,15999,Kirin,8.0,2.0,4,64.0,5100.0,,,10.1,1200x1920,1200.0,1920.0,224.17,,2.0,,5.0,,,,512GB,,not_available,Wi-Fi
+374,Apple iPad Pro 11 2022 Tablet (Wi-Fi + 2TB),Apple,4.45,186124,Apple,8.0,,16,2000.0,7538.0,18.0,Fast,11.0,1668x2388,1668.0,2388.0,264.81,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+375,Apple iPad Pro 12.9 2022 Tablet (Wi-Fi + 1TB),Apple,4.1,170190,Apple,8.0,,16,1000.0,10758.0,18.0,Fast,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iPadOS,16.0,,,not_available,Wi-Fi
+376,Wishtel IRA T1015 4G Tablet,Wishtel,4.75,13000,Octa,8.0,2.0,3,32.0,7000.0,,,10.4,2000x1200,2000.0,1200.0,224.27,,5.0,,8.0,,,,Supported,Dual Sim,not_available,Wi-Fi
+377,WishTel IRA T803,WishTel,4.35,11150,Quad,4.0,1.3,2,32.0,5500.0,,,8.0,1280x800,1280.0,800.0,188.68,,5.0,,8.0,,,,Supported,Single Sim,not_available,Wi-Fi
+378,Honor Pad X8 Lite,Honor,4.65,15990,Helio,8.0,2.0,,32.0,5100.0,22.5,Fast,9.7,1280x800,1280.0,800.0,155.61,,2.0,,5.0,,,,512GB,,not_available,Wi-Fi
+379,Honor Tablet 8,Honor,4.4,15499,Snapdragon,8.0,2.4,4,128.0,7250.0,22.5,Fast,12.0,2000x1200,2000.0,1200.0,194.37,,5.0,,5.0,,,,512GB,,not_available,Wi-Fi
+380,DOMO Slate SLP9 Tablet,DOMO,4.1,10439,,,,4,64.0,5020.0,,,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,13.0,,Android,9.0,,Dual Sim,not_available,Wi-Fi
+381,Teclast M40 Pro Tablet,Teclast,4.0,16990,Tiger,8.0,2.0,6,128.0,7000.0,,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,8.0,,,,Supported,Dual Sim,not_available,Wi-Fi
+382,Teclast M40 Air Tablet,Teclast,4.3,17990,Helio,8.0,2.0,8,128.0,6000.0,18.0,Fast,10.1,1920x1200,1920.0,1200.0,224.17,,5.0,,8.0,,,,1TB,Single Sim,not_available,Wi-Fi
+383,iKall N9 Pro Tablet,iKall,4.5,3950,Quad,4.0,1.3,2,16.0,3000.0,,,7.0,1024x600,1024.0,600.0,169.55,,0.3,,2.0,,,,32GB,Dual Sim,not_available,Wi-Fi
+384,DOMO Slate SSM25 Tablet,DOMO,4.25,8490,Helio,4.0,1.5,2,32.0,4020.0,,,8.0,1280x800,1280.0,800.0,188.68,,2.0,,5.0,,,,128GB,Dual Sim,not_available,Wi-Fi
+385,Lenovo Tab K10 FHD Tablet (Wi-Fi + 32GB),Lenovo,4.4,9899,Helio,8.0,2.0,3,32.0,7500.0,,,10.3,1920x1200,1920.0,1200.0,219.82,,5.0,,8.0,,,,256GB,,not_available,Wi-Fi
+386,Apple iPad Pro 12.9 2021 Tablet (1TB),Apple,4.4,171575,Apple,8.0,,16,1000.0,,,,12.9,2048x2732,2048.0,2732.0,264.68,,12.0,,12.0,10.0,iOS,14.5,Not_available,Single Sim,5G,Wi-Fi
+387,Honor Pad 7,Honor,4.0,15590,Helio,8.0,2.0,4,64.0,5100.0,,Fast,10.1,1200x1920,1200.0,1920.0,224.17,,2.0,,5.0,,,,512GB,Single Sim,not_available,Wi-Fi
+388,Lenovo Tab M10 (Wi-Fi+32GB),Lenovo,4.0,11999,Snapdragon,8.0,1.8,3,32.0,7000.0,,,10.1,1200x1920,1200.0,1920.0,224.17,,5.0,,8.0,,,,Supported,,not_available,Wi-Fi
+389,iBall iTAB BizniZ Tablet,iBall,4.5,9990,Cortex,8.0,1.2,2,32.0,7000.0,,,10.1,1200x1920,1200.0,1920.0,224.17,,8.0,,8.0,,,,256GB,Single Sim,not_available,Wi-Fi
